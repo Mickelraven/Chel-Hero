@@ -1,11 +1,12 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1785698319
+<REAPER_PROJECT 0.1 "7.58/win64" 1791930448 0
   <NOTES 0 2
   >
   RIPPLE 0 0
-  GROUPOVERRIDE 0 0 0
+  GROUPOVERRIDE 0 0 0 0
   AUTOXFADE 129
   ENVATTACH 3
   POOLEDENVATTACH 0
+  TCPUIFLAGS 0
   MIXERUIFLAGS 11 48
   ENVFADESZ10 40
   PEAKGAIN 1
@@ -14,13 +15,13 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 5 3 30 0 0 8
+  TIMEMODE 1 5 3 30 0 0 8 0
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 140.85378200000602
-  ZOOM 100 14186 0
-  VZOOMEX 6 123
+  CURSOR 142.03355500000603
+  ZOOM 100 14053 0
+  VZOOMEX 6 900
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -41,6 +42,7 @@
   RENDER_ADDTOPROJ 0
   RENDER_STEMS 0
   RENDER_DITHER 0
+  RENDER_TRIM 0.000001 0.000001 0 0
   TIMELOCKMODE 1
   TEMPOENVLOCKMODE 1
   ITEMMIX 1
@@ -64,7 +66,7 @@
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 4 4 0
+  TEMPO 179.00028341710001 4 4 0
   PLAYRATE 1 0 0.25 4
   SELECTION 0 0
   SELECTION2 0 0
@@ -72,7 +74,7 @@
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -163,8 +165,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -232,11 +235,11 @@
         GUID {E4A1C35E-3C4F-409A-8C43-D863C1466082}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 329
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW 0 0.002226 23 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.25 31 29 1379 742 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
@@ -253,9 +256,10 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    LANEREC -1 -1 -1 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -265,7 +269,63 @@
     TRACKID {191F42FB-9736-41B2-8247-1DEC84ACBF98}
     PERF 0
     MIDIOUT -1
+    <MIDINOTENAMES
+      -1 41 "Left Hand Lowest (Fret 1)" 0 41
+      -1 42 "Fret 2" 0 42
+      -1 43 "Fret 4" 0 43
+      -1 45 "Fret 5" 0 45
+      -1 46 "Fret 6" 0 46
+      -1 47 "Fret 7" 0 47
+      -1 48 "Fret 8" 0 48
+      -1 50 "Fret 9" 0 50
+      -1 51 "Fret 10" 0 51
+      -1 52 "Fret 11" 0 52
+      -1 53 "Fret 12" 0 53
+      -1 54 "Fret 13" 0 54
+      -1 55 "Left Hand Highest (Fret 14)" 0 55
+      -1 56 ---- 0 56
+      -1 60 "EASY Green" 0 60
+      -1 61 "EASY Red" 0 61
+      -1 62 "EASY Yellow" 0 62
+      -1 63 "EASY Blue" 0 63
+      -1 64 "EASY Orange" 0 64
+      -1 68 ---- 0 68
+      -1 71 "MEDIUM Open" 0 71
+      -1 72 "MEDIUM Green" 0 72
+      -1 73 "MEDIUM Red" 0 73
+      -1 74 "MEDIUM Yellow" 0 74
+      -1 75 "MEDIUM Blue" 0 75
+      -1 76 "MEDIUM Orange" 0 76
+      -1 80 ---- 0 80
+      -1 83 "HARD Open" 0 83
+      -1 84 "HARD Green" 0 84
+      -1 85 "HARD Red" 0 85
+      -1 86 "HARD Yellow" 0 86
+      -1 87 "HARD Blue" 0 87
+      -1 88 "HARD Orange" 0 88
+      -1 89 "Force HOPO On" 0 89
+      -1 90 "Force HOPO Off" 0 90
+      -1 91 ---- 0 91
+      -1 95 "EXPERT Open" 0 95
+      -1 96 "EXPERT Green" 0 96
+      -1 97 "EXPERT Red" 0 97
+      -1 98 "EXPERT Yellow" 0 98
+      -1 99 "EXPERT Blue" 0 99
+      -1 100 "EXPERT Orange" 0 100
+      -1 101 "Force HOPO On" 0 101
+      -1 102 "Force HOPO Off" 0 102
+      -1 103 "(WTDE) Solo Marker" 0 103
+      -1 104 "Tap Note Marker" 0 104
+      -1 107 "Face Off Section" 0 107
+      -1 115 "Battle Power" 0 115
+      -1 116 "Star Power" 0 116
+    >
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -275,7 +335,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {D382D21C-F29D-4616-81E9-6162EBBA55D2}
       IID 2
       NAME "PART GUITAR - notes.mid"
@@ -293,7 +353,8 @@
         >
         E 0 90 69 60
         E 0 90 6a 60
-        E 3840 91 62 64
+        E 3600 90 32 60
+        E 240 91 62 64
         E 0 91 56 64
         E 0 91 4a 64
         E 0 91 3c 64
@@ -1043,13 +1104,15 @@
         E 1 81 62 64
         E 59 81 57 64
         E 0 81 4a 64
-        E 60 91 62 64
+        E 60 80 32 00
+        E 0 91 62 64
         E 0 91 64 64
         E 0 91 56 64
         E 0 91 57 64
         E 0 91 4a 64
         E 0 91 4b 64
         E 0 91 3e 64
+        E 0 90 2d 60
         E 1 81 62 64
         E 0 81 64 64
         E 0 81 56 64
@@ -2039,10 +2102,12 @@
         E 1 81 61 64
         E 119 91 61 64
         E 1 81 61 64
-        E 119 91 62 64
+        E 119 80 2d 00
+        E 0 91 62 64
         E 0 91 56 64
         E 0 91 4a 64
         E 0 91 3c 64
+        E 0 90 32 60
         E 1 81 56 64
         E 0 81 4a 64
         E 0 81 3c 64
@@ -2789,13 +2854,15 @@
         E 1 81 62 64
         E 59 81 57 64
         E 0 81 4a 64
-        E 60 91 62 64
+        E 60 80 32 00
+        E 0 91 62 64
         E 0 91 64 64
         E 0 91 56 64
         E 0 91 57 64
         E 0 91 4a 64
         E 0 91 4b 64
         E 0 91 3e 64
+        E 0 90 2d 60
         E 1 81 62 64
         E 0 81 64 64
         E 0 81 56 64
@@ -3787,10 +3854,12 @@
         E 1 81 61 64
         E 119 91 61 64
         E 1 81 61 64
-        E 119 91 62 64
+        E 119 80 2d 00
+        E 0 91 62 64
         E 0 91 56 64
         E 0 91 4a 64
         E 0 91 3c 64
+        e 0 90 32 60
         E 1 81 56 64
         E 0 81 4a 64
         E 0 81 3c 64
@@ -4163,6 +4232,7 @@
         E 0 91 3c 64
         E 5760 80 69 00
         E 0 80 6a 00
+        e 0 80 32 00
         E 0 81 62 64
         E 0 81 56 64
         E 0 81 49 64
@@ -4173,7 +4243,12 @@
         GUID {1D2EC8F5-472A-4E5C-A523-CF984A1225EF}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 330
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
+        CFGEDITVIEW 176017.829419 0.02167 60 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        CFGEDIT 1 1 0 0 1 1 1 1 1 1 1 0.125 32 23 1368 748 1 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -4189,8 +4264,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -4201,7 +4277,61 @@
     TRACKID {BDA9BF8A-F133-4F9B-85DA-4D47815E3290}
     PERF 0
     MIDIOUT -1
+    <MIDINOTENAMES
+      -1 41 "Left Hand Lowest (Fret 1)" 0 41
+      -1 42 "Fret 2" 0 42
+      -1 43 "Fret 4" 0 43
+      -1 45 "Fret 5" 0 45
+      -1 46 "Fret 6" 0 46
+      -1 47 "Fret 7" 0 47
+      -1 48 "Fret 8" 0 48
+      -1 50 "Fret 9" 0 50
+      -1 51 "Fret 10" 0 51
+      -1 52 "Fret 11" 0 52
+      -1 53 "Fret 12" 0 53
+      -1 54 "Fret 13" 0 54
+      -1 55 "Left Hand Highest (Fret 14)" 0 55
+      -1 56 ---- 0 56
+      -1 60 "EASY Green" 0 60
+      -1 61 "EASY Red" 0 61
+      -1 62 "EASY Yellow" 0 62
+      -1 63 "EASY Blue" 0 63
+      -1 64 "EASY Orange" 0 64
+      -1 68 ---- 0 68
+      -1 71 "MEDIUM Open" 0 71
+      -1 72 "MEDIUM Green" 0 72
+      -1 73 "MEDIUM Red" 0 73
+      -1 74 "MEDIUM Yellow" 0 74
+      -1 75 "MEDIUM Blue" 0 75
+      -1 76 "MEDIUM Orange" 0 76
+      -1 80 ---- 0 80
+      -1 83 "HARD Open" 0 83
+      -1 84 "HARD Green" 0 84
+      -1 85 "HARD Red" 0 85
+      -1 86 "HARD Yellow" 0 86
+      -1 87 "HARD Blue" 0 87
+      -1 88 "HARD Orange" 0 88
+      -1 89 "Force HOPO On" 0 89
+      -1 90 "Force HOPO Off" 0 90
+      -1 91 ---- 0 91
+      -1 95 "EXPERT Open" 0 95
+      -1 96 "EXPERT Green" 0 96
+      -1 97 "EXPERT Red" 0 97
+      -1 98 "EXPERT Yellow" 0 98
+      -1 99 "EXPERT Blue" 0 99
+      -1 100 "EXPERT Orange" 0 100
+      -1 101 "Force HOPO On" 0 101
+      -1 102 "Force HOPO Off" 0 102
+      -1 103 ---- 0 103
+      -1 104 "Tap Note Marker" 0 104
+      -1 116 "Star Power" 0 116
+    >
     MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
     <ITEM
       POSITION 0
       SNAPOFFS 0
@@ -4229,10 +4359,13 @@
         >
         E 0 90 69 60
         E 0 90 6a 60
-        E 3840 90 3d 64
+        E 3360 90 2d 60
+        E 113 80 2d 00
+        E 367 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -4389,10 +4522,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -4555,12 +4690,14 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 73 64
+        E 239 80 2a 00
+        E 0 90 73 64
         E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
         E 0 90 74 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -4717,17 +4854,19 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
         E 239 90 73 00
-        E 0 90 60 64
         E 0 90 74 00
+        E 0 90 60 64
         E 1 90 60 00
         E 239 90 48 64
         E 0 90 54 64
@@ -4885,10 +5024,12 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 3d 64
+        E 239 80 2a 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -5045,10 +5186,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -5211,12 +5354,14 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 73 64
+        E 239 80 2a 00
+        E 0 90 73 64
         E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
         E 0 90 74 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -5373,17 +5518,19 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
         E 239 90 73 00
-        E 0 90 60 64
         E 0 90 74 00
+        E 0 90 60 64
         E 1 90 60 00
         E 239 90 48 64
         E 0 90 54 64
@@ -5537,10 +5684,12 @@
         E 1 90 64 00
         E 119 90 64 64
         E 1 90 64 00
-        E 119 90 3e 64
+        E 119 80 2a 00
+        E 0 90 3e 64
         E 0 90 4b 64
         E 0 90 58 64
         E 0 90 64 64
+        E 0 90 2d 60
         E 1 90 3e 00
         E 0 90 4b 00
         E 0 90 58 00
@@ -6021,10 +6170,12 @@
         E 0 90 64 00
         E 239 90 62 64
         E 1 90 62 00
-        E 239 90 3d 64
+        E 239 80 2d 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -6181,10 +6332,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -6347,12 +6500,14 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 73 64
+        E 239 80 2a 00
+        E 0 90 73 64
         E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
         E 0 90 74 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -6509,17 +6664,19 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
         E 239 90 73 00
-        E 0 90 60 64
         E 0 90 74 00
+        E 0 90 60 64
         E 1 90 60 00
         E 239 90 48 64
         E 0 90 54 64
@@ -6677,10 +6834,12 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 3d 64
+        E 239 80 2a 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -6837,10 +6996,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -7003,12 +7164,14 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 73 64
+        E 239 80 2a 00
+        E 0 90 73 64
         E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
         E 0 90 74 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -7165,17 +7328,19 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
         E 239 90 73 00
-        E 0 90 60 64
         E 0 90 74 00
+        E 0 90 60 64
         E 1 90 60 00
         E 239 90 48 64
         E 0 90 54 64
@@ -7329,10 +7494,12 @@
         E 1 90 64 00
         E 119 90 64 64
         E 1 90 64 00
-        E 119 90 3e 64
+        E 119 80 2a 00
+        E 0 90 3e 64
         E 0 90 4b 64
         E 0 90 58 64
         E 0 90 64 64
+        E 0 90 2d 60
         E 1 90 3e 00
         E 0 90 4b 00
         E 0 90 58 00
@@ -7813,10 +7980,12 @@
         E 0 90 64 00
         E 239 90 62 64
         E 1 90 62 00
-        E 239 90 3d 64
+        E 239 80 2d 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -7971,10 +8140,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -8137,10 +8308,12 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 3d 64
+        E 239 80 2a 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        E 0 90 2d 60
         E 1 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
@@ -8297,10 +8470,12 @@
         E 0 90 62 00
         E 239 90 60 64
         E 1 90 60 00
-        E 239 90 3c 64
+        E 239 80 2d 00
+        E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
+        E 0 90 2a 60
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -8463,23 +8638,31 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 3d 64
+        E 239 80 2a 00
+        E 0 90 3d 64
         E 0 90 49 64
         E 0 90 56 64
         E 0 90 62 64
+        e 0 90 2d 60
         E 5760 80 69 00
         E 0 80 6a 00
         E 0 90 3d 00
         E 0 90 49 00
         E 0 90 56 00
         E 0 90 62 00
+        e 0 80 2d 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
         GUID {74DAF200-3E5F-481C-BDCC-1B2690B594EA}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 331
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
+        CFGEDITVIEW 176017.829419 0.02167 68 12 0 0 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        CFGEDIT 1 1 0 0 1 1 1 1 1 1 1 0.125 32 23 1368 748 1 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -8495,8 +8678,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -19754,11 +19938,11 @@
         GUID {50E34A37-4CB9-41A2-A6EE-87481B2B7F3A}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 332
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW 188049.360101 0.045859 14 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 31 29 1379 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
@@ -19775,8 +19959,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -20501,11 +20686,11 @@
         GUID {09CEF8A8-50C0-4C05-89E4-92C27774E90B}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 333
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW 147011.331024 0.072504 11 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 31 29 1379 742 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
@@ -20522,8 +20707,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -20738,11 +20924,11 @@
         GUID {50E34A37-4CB9-41A2-A6EE-87481B2B7F3A}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 332
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW 182616.429978 0.059503 90 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 31 29 1379 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
@@ -20759,8 +20945,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21389,11 +21576,11 @@
         GUID {50E34A37-4CB9-41A2-A6EE-87481B2B7F3A}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 332
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW -445.073733 0.087946 62 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.5 31 29 1379 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
@@ -21410,9 +21597,10 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    LANEREC -1 -1 -1 0
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -21459,7 +21647,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {DBE74867-6B11-4F22-9842-D87485218AC2}
       IID 4
       NAME "PART DRUMS - notes.mid"
@@ -21499,11 +21687,11 @@
         GUID {50E34A37-4CB9-41A2-A6EE-87481B2B7F3A}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 332
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         VELLANE 132 100 0 0 1
         CFGEDITVIEW 195636.088626 0.06778 33 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
-        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
         CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 31 29 1379 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
@@ -21520,8 +21708,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21568,8 +21757,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21616,8 +21806,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21664,8 +21855,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21712,8 +21904,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21760,8 +21953,9 @@
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21803,13 +21997,14 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0 0
     FIXEDLANES 9 0 0 0 0
+    LANEREC -1 -1 -1 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
@@ -21843,5 +22038,7 @@
         FILE "guitar.ogg"
       >
     >
+  >
+  <EXTENSIONS
   >
 >
