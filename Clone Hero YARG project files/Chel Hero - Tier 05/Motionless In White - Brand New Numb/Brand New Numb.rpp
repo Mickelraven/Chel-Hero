@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1782322484
+<REAPER_PROJECT 0.1 "7.35/win64" 1791906865
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -14,7 +14,7 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 9 -1 60 0 0 -1
+  TIMEMODE 1 5 3 30 0 0 8
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
@@ -222,7 +222,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -7268,7 +7268,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -13180,7 +13180,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.33333333 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -23658,7 +23658,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -24513,24 +24513,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
-        E 480 90 69 00
-        E 0 90 3c 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        E 480 90 3c 00
+        <X 240 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -24545,24 +24543,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        <X 300 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -24577,13 +24573,13 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -24628,45 +24624,43 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 300 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3e 64
         E 120 90 3e 00
-        <X 120 0 0 0 5 En-
-          /wVFbi0=
+        <X 120 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -24693,13 +24687,13 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -24708,13 +24702,13 @@
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -24723,13 +24717,13 @@
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -25555,24 +25549,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
-        E 480 90 69 00
-        E 0 90 3c 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        E 480 90 3c 00
+        <X 240 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -25587,24 +25579,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        <X 300 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -25619,13 +25609,13 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -25670,45 +25660,43 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 300 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <X 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3e 64
         E 120 90 3e 00
-        <X 120 0 0 0 5 En-
-          /wVFbi0=
+        <X 120 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -25735,13 +25723,13 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -25750,13 +25738,13 @@
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -25765,13 +25753,13 @@
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -26414,24 +26402,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
-        E 480 90 69 00
-        E 0 90 3c 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        E 480 90 3c 00
+        <X 240 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -26446,24 +26432,22 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
-        >
-        E 0 90 3f 64
-        E 180 90 3f 00
         <X 60 0 0 0 5 e-
           /wVlLQ==
         >
+        E 0 90 3f 64
+        E 180 90 3f 00
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
+        >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <X 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 I
+        <X 300 0 0 0 5 I
           /wVJ
         >
         E 0 90 3c 64
@@ -26478,13 +26462,13 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <X 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -26523,45 +26507,43 @@
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 en-
-          /wVlbi0=
+        <x 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <x 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
-        <X 60 0 0 0 5 my
-          /wVteQ==
+        <x 60 0 0 0 5 my,
+          /wVteSw=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        E 60 90 69 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <x 300 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <x 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 E=
-          /wVFPQ==
+        <x 120 0 0 0 5 e=
+          /wVlPQ==
         >
         E 0 90 3e 64
         E 120 90 3e 00
-        <X 120 0 0 0 5 En-
-          /wVFbi0=
+        <x 120 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 e-
-          /wVlLQ==
+        <x 60 0 0 0 5 ne-
+          /wVuZS0=
         >
         E 0 90 3e 64
         E 180 90 3e 00
@@ -26601,11 +26583,9 @@
           /wVteSw=
         >
         E 0 90 3c 64
-        E 420 90 69 00
-        E 0 90 3c 00
-        E 60 90 69 64
-        <X 5 0 0 0 5 Brand#
-          /wVCcmFuZCM=
+        E 420 90 3c 00
+        <X 65 0 0 0 5 brand#
+          /wVicmFuZCM=
         >
         E 0 90 30 64
         E 355 90 30 00
@@ -26617,9 +26597,9 @@
         <X 121 0 0 0 5 numb!#
           /wVudW1iISM=
         >
-        e 0 90 30 64
+        E 0 90 30 64
         E 959 90 69 00 1
-        e 0 90 30 00 1
+        E 0 90 30 00 1
         E 1 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -26627,11 +26607,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 42
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 220567.092208 0.067655 13 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 223130.917985 0.077065 13 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -26796,8 +26776,8 @@
         <X 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
-        E 0 90 1c 60
-        E 232320 80 1c 00
+        e 0 90 30 60
+        e 232320 80 30 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -26805,11 +26785,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 42
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 0 0.14779 87 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.14779 71 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >
@@ -28096,7 +28076,125 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 48 19 1797 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
+      >
+    >
+  >
+  <TRACK {2D734FA2-BF27-4880-B1E3-DD18F04F1D5B}
+    NAME CROWD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {2D734FA2-BF27-4880-B1E3-DD18F04F1D5B}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      -1 82 Swell 0 82
+      -1 83 Applause 0 83
+      -1 84 Surge* 0 84
+      -1 85 Whistle 0 85
+      -1 86 "Fast Small Surge*" 0 86
+      -1 87 "Fast Surge*" 0 87
+      -1 88 "Medium Surge*" 0 88
+      -1 89 "Slow Surge*" 0 89
+      -1 95 Quiet 0 95
+      -1 96 Loud 0 96
+      -1 101 "Positive Guitar" 0 101
+      -1 102 "Negative Guitar" 0 102
+      -1 103 "Positive & Negative Guitar" 0 103
+      -1 104 "Positive Bass" 0 104
+      -1 105 "Negative Bass" 0 105
+      -1 106 "Positive & Negative Bass" 0 106
+      -1 107 "Positive Drums" 0 107
+      -1 108 "Negative Drums" 0 108
+      -1 109 "Positive & Negative Drums" 0 109
+      -1 110 "Positive All" 0 110
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 223.034944
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {1D64E587-B4CC-4BAA-A62C-91311155D704}
+      IID 23
+      NAME "PART VOCALS - notes.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {29D40CAF-2773-48FB-A579-31CFA3C0283F}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {1F849CFF-D514-49E6-AEEB-39E3E435B946}
+        <X 0 0 0 0 3 CROWD
+          /wNDUk9XRA==
+        >
+        E 1680 90 5f 60
+        E 3840 80 5f 00
+        E 0 90 60 60
+        E 240 80 60 00
+        E 0 90 52 60
+        E 240 80 52 00
+        E 28920 90 55 60
+        E 240 80 55 00
+        E 18360 90 52 60
+        E 240 80 52 00
+        E 44520 90 55 60
+        E 240 80 55 00
+        E 26040 90 52 60
+        E 240 80 52 00
+        E 37920 90 55 60
+        E 240 80 55 00
+        E 23040 90 52 60
+        E 240 80 52 00
+        E 11520 90 55 60
+        E 240 80 55 00
+        E 3360 90 52 60
+        E 240 80 52 00
+        E 14400 90 55 60
+        E 240 80 55 00
+        e 15840 90 53 60
+        e 240 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {6C670D53-AD93-4405-B04E-695A0B8D6D2A}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 42
+        VELLANE 132 100 0 0 1
+        CFGEDITVIEW 218902.760693 0.067655 18 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 19 1379 744 0 0 0 2 0 0 0 0 0 0.01 0 0 1 64
       >
     >
   >

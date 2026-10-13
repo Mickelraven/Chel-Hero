@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1782321542
+<REAPER_PROJECT 0.1 "7.35/win64" 1791898269
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -14,13 +14,13 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 9 -1 60 0 0 -1
+  TIMEMODE 1 5 3 30 0 0 8
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
+  CURSOR 0.821916
   ZOOM 100 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 80
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -245,7 +245,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -5038,7 +5038,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.125 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.125 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -9013,7 +9013,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -18181,7 +18181,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.25 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -18199,7 +18199,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -18219,7 +18219,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {7188B977-D335-4275-A40E-81327EDA9039}
       IID 17
       NAME "PART VOCALS - notes.mid"
@@ -19401,8 +19401,8 @@
         >
         E 0 90 39 64
         E 120 90 39 00
-        <X 120 0 0 0 5 gain
-          /wVnYWlu
+        <X 120 0 0 0 5 gain,
+          /wVnYWluLA==
         >
         E 0 90 3c 64
         E 240 90 3c 00
@@ -19411,10 +19411,8 @@
         >
         E 0 90 37 64
         E 120 90 37 00
-        E 60 90 69 00
-        E 60 90 69 64
-        <X 60 0 0 0 5 Oh
-          /wVPaA==
+        <X 180 0 0 0 5 oh
+          /wVvaA==
         >
         E 0 90 39 64
         E 420 90 39 00
@@ -19431,8 +19429,8 @@
         E 240 90 69 00
         E 840 90 69 64
         E 0 90 74 60
-        <X 240 0 0 0 5 Yeah
-          /wVZZWFo
+        <X 240 0 0 0 5 Yeah,
+          /wVZZWFoLA==
         >
         E 0 90 3e 64
         E 240 90 3e 00
@@ -19525,8 +19523,8 @@
           /wVXb28hIw==
         >
         E 0 90 2d 64
-        E 480 90 2d 00
-        E 480 90 69 00
+        E 720 90 2d 00
+        E 240 90 69 00
         E 0 90 69 64
         E 0 90 68 60
         <X 2880 0 0 0 5 (Hot
@@ -20078,8 +20076,8 @@
         >
         E 0 90 39 64
         E 120 90 39 00
-        <X 120 0 0 0 5 gain
-          /wVnYWlu
+        <X 120 0 0 0 5 gain,
+          /wVnYWluLA==
         >
         E 0 90 3c 64
         E 240 90 3c 00
@@ -20088,10 +20086,8 @@
         >
         E 0 90 37 64
         E 120 90 37 00
-        E 60 90 69 00
-        E 60 90 69 64
-        <X 60 0 0 0 5 Oh
-          /wVPaA==
+        <X 180 0 0 0 5 oh
+          /wVvaA==
         >
         E 0 90 39 64
         E 420 90 39 00
@@ -20140,24 +20136,24 @@
         E 0 90 69 00
         E 0 80 68 00
         E 0 90 69 60
-        e 0 90 68 60
+        E 0 90 68 60
         <X 300 0 0 0 5 blood)
           /wVibG9vZCk=
         >
-        E 659 80 69 00 1
-        e 0 80 68 00 1
-        E 1 b0 7b 00
+        E 540 80 69 00
+        E 0 80 68 00
+        E 120 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
         GUID {AA9D0DDC-18D3-4BE7-838D-59D12D2D2C5C}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 43
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 243356.735499 0.074436 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 256046.561233 0.074436 20 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -20321,8 +20317,8 @@
         <X 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
-        e 0 90 1c 60
-        e 258240 80 1c 00
+        e 0 90 30 60
+        e 258240 80 30 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -20330,11 +20326,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 43
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 0 0.057368 92 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.057368 79 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -21943,7 +21939,135 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1873 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+      >
+    >
+  >
+  <TRACK {9A6DD2C1-2EEF-4A1F-B0F6-BF5A48C1DBCC}
+    NAME CROWD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {9A6DD2C1-2EEF-4A1F-B0F6-BF5A48C1DBCC}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      -1 82 Swell 0 82
+      -1 83 Applause 0 83
+      -1 84 Surge* 0 84
+      -1 85 Whistle 0 85
+      -1 86 "Fast Small Surge*" 0 86
+      -1 87 "Fast Surge*" 0 87
+      -1 88 "Medium Surge*" 0 88
+      -1 89 "Slow Surge*" 0 89
+      -1 95 Quiet 0 95
+      -1 96 Loud 0 96
+      -1 101 "Positive Guitar" 0 101
+      -1 102 "Negative Guitar" 0 102
+      -1 103 "Positive & Negative Guitar" 0 103
+      -1 104 "Positive Bass" 0 104
+      -1 105 "Negative Bass" 0 105
+      -1 106 "Positive & Negative Bass" 0 106
+      -1 107 "Positive Drums" 0 107
+      -1 108 "Negative Drums" 0 108
+      -1 109 "Positive & Negative Drums" 0 109
+      -1 110 "Positive All" 0 110
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 217.616483
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3FFAAFBE-0F17-43AD-9153-D2F3AF6ED33A}
+      IID 17
+      NAME "PART VOCALS - notes.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0814760A-D6FB-4B52-AB5E-BAD0777D77A4}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {317460D5-7FB8-4CA3-B8BA-6B71DCA489C5}
+        <X 0 0 0 0 3 CROWD
+          /wNDUk9XRA==
+        >
+        E 1920 90 5f 60
+        E 5760 90 55 60
+        E 240 80 55 00
+        E 10800 80 5f 00
+        e 0 90 60 60
+        e 240 80 60 00
+        E 0 90 52 60
+        E 240 80 52 00
+        E 21600 90 55 60
+        E 240 80 55 00
+        E 12480 90 52 60
+        E 240 80 52 00
+        E 31200 90 55 60
+        E 240 80 55 00
+        E 18240 90 52 60
+        E 240 80 52 00
+        E 28200 90 55 60
+        E 240 80 55 00
+        E 32760 90 52 60
+        E 240 80 52 00
+        E 8040 90 55 60
+        E 240 80 55 00
+        E 6840 90 52 60
+        E 240 80 52 00
+        E 10320 90 55 60
+        E 240 80 55 00
+        E 4560 90 52 60
+        E 240 80 52 00
+        E 20160 90 55 60
+        E 240 80 55 00
+        E 10080 90 52 60
+        E 240 80 52 00
+        E 16080 90 55 60
+        E 240 80 55 00
+        E 14760 90 53 60
+        E 240 80 53 00
+        E 360 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {AA9D0DDC-18D3-4BE7-838D-59D12D2D2C5C}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 43
+        VELLANE 132 100 0 0 1
+        CFGEDITVIEW 13762.807278 0.071497 24 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 25 21 1386 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
