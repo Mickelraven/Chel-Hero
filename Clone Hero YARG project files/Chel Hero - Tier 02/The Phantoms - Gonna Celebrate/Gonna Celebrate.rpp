@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1791299265
+<REAPER_PROJECT 0.1 "7.35/win64" 1792384794
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -247,7 +247,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -300,9 +300,6 @@
         POOLEDEVTS {98CA8920-285C-457A-A720-23F348839B32}
         <X 0 0 0 0 3 "PART GUITAR"
           /wNQQVJUIEdVSVRBUg==
-        >
-        <X 0 0 0 0 1 "copy paste"
-          /wFjb3B5IHBhc3Rl
         >
         E 0 90 69 60
         E 0 90 6a 60
@@ -7653,11 +7650,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 3
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 242523.756848 0.073128 22 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 73586.018529 0.073128 22 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -11432,11 +11429,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 4
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 266104.688724 0.073628 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 259827.626589 0.073628 11 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -21806,7 +21803,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -21824,7 +21821,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -21908,7 +21905,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {9346469C-F4DD-4EA0-A375-4CD2AF5ECA64}
       IID 10
       NAME "PART VOCALS - eof.mid"
@@ -22089,8 +22086,8 @@
         E 0 90 43 00
         E 60 90 74 64
         E 0 90 69 64
-        <X 20 0 0 0 5 A=
-          /wVBPQ==
+        <X 20 0 0 0 5 A=#
+          /wVBPSM=
         >
         E 0 90 3a 64
         E 80 90 3a 00
@@ -22134,11 +22131,29 @@
         >
         E 0 90 3a 64
         E 840 90 3a 00
-        E 120 80 74 00
+        <X 120 0 0 0 5 (Na
+          /wUoTmE=
+        >
+        E 0 80 74 00
         E 0 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        E 3360 80 69 00
+        <X 480 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 480 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 960 80 69 00
         E 0 80 68 00
         E 0 90 69 64
         <X 240 0 0 0 5 We're#
@@ -22196,10 +22211,25 @@
         >
         E 0 90 37 64
         E 600 90 37 00
-        E 120 90 69 00
+        <X 120 0 0 0 5 "(Na na,"
+          /wUoTmEgbmEs
+        >
+        E 0 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        E 2160 80 69 00
+        <X 240 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 480 80 69 00
         E 0 80 68 00
         E 0 90 69 64
         <X 240 0 0 0 5 "'Cause#"
@@ -22526,12 +22556,28 @@
           /wVicmF0ZSE=
         >
         E 0 90 43 64
-        E 780 90 43 00
-        E 180 90 69 00
-        E 0 90 69 64
-        E 0 91 68 64
-        E 3360 80 69 00
-        E 0 81 68 00
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 704 90 43 00
+        E 60 90 69 00
+        E 60 90 69 64
+        E 0 90 68 60
+        <X 60 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        E 480 80 69 00
+        E 0 80 68 00
         <X 675 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hMl0=
@@ -22657,18 +22703,54 @@
           /wVicmF0ZSE=
         >
         E 0 90 43 64
-        E 780 90 43 00
-        E 180 90 69 00
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 704 90 43 00
+        E 60 90 69 00
+        E 60 90 69 64
+        E 0 90 68 60
+        <X 60 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 69 00
+        E 0 80 68 00
         E 0 90 69 64
-        E 0 91 68 64
-        <X 5925 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a6]"
+        E 0 90 68 60
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 165 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a6]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hNl0=
         >
-        E 1275 80 69 00
-        E 0 81 68 00
-        E 0 90 69 64
-        <X 300 0 0 0 5 A=#
+        <X 795 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        E 480 80 69 00
+        E 0 80 68 00
+        E 120 90 69 64
+        <X 180 0 0 0 5 A=#
           /wVBPSM=
         >
         E 0 90 37 64
@@ -22718,10 +22800,28 @@
         >
         E 0 90 3e 64
         E 540 90 3e 00
-        E 120 90 69 00
+        <X 120 0 0 0 5 (Na
+          /wUoTmE=
+        >
+        E 0 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        E 3120 80 69 00
+        <X 240 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 480 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 960 80 69 00
         E 0 80 68 00
         E 0 90 69 64
         E 0 90 74 64
@@ -22785,11 +22885,26 @@
         >
         E 0 90 3e 64
         E 480 90 3e 00
-        E 60 90 69 00
+        <X 60 0 0 0 5 "(Na na,"
+          /wUoTmEgbmEs
+        >
+        E 0 90 69 00
         E 0 80 74 00
         E 0 90 69 64
         E 0 90 68 64
-        E 2160 80 69 00
+        <X 240 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 480 80 69 00
         E 0 80 68 00
         E 0 90 69 64
         <X 300 0 0 0 5 "'Cause#"
@@ -23106,12 +23221,28 @@
           /wVicmF0ZSE=
         >
         E 0 90 43 64
-        E 780 90 43 00
-        E 180 90 69 00
-        E 0 90 69 64
-        E 0 91 68 64
-        E 3360 80 69 00
-        E 0 81 68 00
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 704 90 43 00
+        E 60 90 69 00
+        E 60 90 69 64
+        E 0 90 68 60
+        <X 60 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        E 480 80 69 00
+        E 0 80 68 00
         <X 675 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hMl0=
@@ -23237,16 +23368,92 @@
           /wVicmF0ZSE=
         >
         E 0 90 43 64
-        E 780 90 43 00
-        E 180 90 69 00
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 704 90 43 00
+        E 60 90 69 00
+        E 60 90 69 64
+        E 0 90 68 60
+        <X 60 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 69 00
+        E 0 80 68 00
         E 0 90 69 64
-        E 0 91 68 64
-        <X 14530 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a7]"
+        E 0 90 68 60
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 69 00
+        E 0 80 68 00
+        E 0 90 69 64
+        E 0 90 68 60
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 69 00
+        E 0 80 68 00
+        E 0 90 69 64
+        E 0 90 68 60
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 130 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a7]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hN10=
         >
         E 350 80 69 00
-        E 0 81 68 00
+        E 0 80 68 00
         E 240 90 69 64
         <X 240 0 0 0 5 Na
           /wVOYQ==
@@ -23258,8 +23465,8 @@
         >
         E 0 90 43 64
         E 360 90 43 00
-        <X 60 0 0 0 5 na
-          /wVuYQ==
+        <X 60 0 0 0 5 na=
+          /wVuYT0=
         >
         E 0 90 43 64
         E 180 90 43 00
@@ -23294,8 +23501,8 @@
         >
         E 0 90 43 64
         E 360 90 43 00
-        <X 60 0 0 0 5 na
-          /wVuYQ==
+        <X 60 0 0 0 5 na=
+          /wVuYT0=
         >
         E 0 90 43 64
         E 180 90 43 00
@@ -23331,8 +23538,8 @@
         >
         E 0 90 43 64
         E 360 90 43 00
-        <X 60 0 0 0 5 na
-          /wVuYQ==
+        <X 60 0 0 0 5 na=
+          /wVuYT0=
         >
         E 0 90 43 64
         E 180 90 43 00
@@ -23353,16 +23560,92 @@
         E 480 90 43 00
         E 240 90 69 00
         E 0 80 74 00
-        E 4080 90 69 64
-        E 0 90 68 64
-        <X 14313 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a8]"
+        <X 3676 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 90 68 60
+        E 0 90 69 64
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 68 00
+        E 0 80 69 00
+        E 0 90 68 60
+        E 0 90 69 64
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 68 00
+        E 0 80 69 00
+        E 0 90 68 60
+        E 0 90 69 64
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 404 80 68 00
+        E 0 80 69 00
+        E 0 90 68 60
+        E 0 90 69 64
+        <X 480 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 393 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a8]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hOF0=
         >
-        E 1047 80 69 00
-        E 0 80 68 00
-        E 0 90 69 64
-        <X 240 0 0 0 5 And#
+        <X 567 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        E 480 80 68 00
+        E 0 80 69 00
+        E 120 90 69 64
+        <X 120 0 0 0 5 And#
           /wVBbmQj
         >
         E 0 90 37 64
@@ -23432,10 +23715,25 @@
         >
         E 0 90 3e 64
         E 720 90 3e 00
-        E 120 90 69 00
+        <X 120 0 0 0 5 "(Na na,"
+          /wUoTmEgbmEs
+        >
+        E 0 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        E 2880 80 69 00
+        <X 480 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 960 80 69 00
         E 0 80 68 00
         E 0 90 69 64
         <X 240 0 0 0 5 "'Cause#"
@@ -23488,10 +23786,28 @@
         >
         E 0 90 3e 64
         E 540 90 3e 00
-        E 120 90 69 00
+        <X 120 0 0 0 5 (Na
+          /wUoTmE=
+        >
+        E 0 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        E 2880 80 69 00
+        <X 240 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 480 0 0 0 5 na=
+          /wVuYT0=
+        >
+        <X 300 0 0 0 5 na,
+          /wVuYSw=
+        >
+        <X 660 0 0 0 5 na
+          /wVuYQ==
+        >
+        <X 480 0 0 0 5 na)
+          /wVuYSk=
+        >
+        E 720 80 69 00
         E 0 80 68 00
         E 0 90 74 64
         E 0 90 69 64
@@ -23763,12 +24079,28 @@
           /wVicmF0ZSE=
         >
         E 0 90 43 64
-        E 780 90 43 00
-        E 180 90 69 00
-        E 0 90 69 64
-        E 0 91 68 64
-        E 3360 80 69 00
-        E 0 81 68 00
+        <X 76 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
+          ZV9iMV0=
+        >
+        E 704 90 43 00
+        E 60 90 69 00
+        E 60 90 69 64
+        E 0 90 68 60
+        <X 60 0 0 0 5 (Hey!
+          /wUoSGV5IQ==
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!
+          /wVIZXkh
+        >
+        <X 960 0 0 0 5 Hey!)
+          /wVIZXkhKQ==
+        >
+        E 480 80 69 00
+        E 0 80 68 00
         <X 675 0 0 0 1 "[Band_PlayFacialAnim McklGonnaCelebrate_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsR29ubmFDZWxlYnJhdA==
           ZV9hMl0=
@@ -24060,11 +24392,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 13
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 71575.214557 0.083299 48 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 136867.890985 0.083299 16 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.125 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.125 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -24082,7 +24414,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -24207,13 +24539,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 176.962373
+      LENGTH 177.26694099996692
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {0A7171A8-AA2F-4FCA-B82A-32C140BC797C}
       IID 10
       NAME "PART VOCALS - eof.mid"
@@ -24229,20 +24561,248 @@
         <X 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
-        e 0 90 30 60
-        e 480 80 30 00
-        E 278400 b0 7b 00
+        E 0 90 1c 60
+        E 3840 80 1c 00
+        E 0 90 45 60
+        <X 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 7560 80 45 00
+        E 0 90 1a 60
+        E 3840 80 1a 00
+        E 0 90 30 60
+        <X 120 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 1800 80 30 00
+        E 0 90 04 60
+        <X 120 0 0 0 1 "[zoom_in_slow_large 10]"
+          /wFbem9vbV9pbl9zbG93X2xhcmdlIDEwXQ==
+        >
+        E 1200 80 04 00
+        E 0 90 03 60
+        E 3480 80 03 00
+        E 0 90 19 60
+        E 2880 80 19 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 15 60
+        E 1920 80 15 00
+        E 0 90 1e 60
+        E 1920 80 1e 00
+        E 0 90 06 60
+        E 3840 80 06 00
+        E 0 90 03 60
+        <X 1320 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2520 80 03 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 4b 60
+        E 7680 80 4b 00
+        E 0 90 14 60
+        <X 600 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 3240 80 14 00
+        E 0 90 44 60
+        E 1920 80 44 00
+        E 0 90 04 60
+        <X 120 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 04 00
+        E 0 90 03 60
+        E 2400 80 03 00
+        E 0 90 30 60
+        <X 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 30 00
+        E 0 90 19 60
+        E 3840 80 19 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 0d 60
+        E 1920 80 0d 00
+        E 0 90 05 60
+        E 3120 80 05 00
+        E 0 90 03 60
+        <X 2040 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2520 80 03 00
+        E 0 90 1a 60
+        E 3840 80 1a 00
+        E 0 90 1e 60
+        E 1920 80 1e 00
+        E 0 90 3d 60
+        E 1920 80 3d 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 1d 60
+        E 2160 80 1d 00
+        E 0 90 21 60
+        E 1920 80 21 00
+        E 0 90 04 60
+        E 3120 80 04 00
+        E 0 90 09 60
+        <X 1920 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2400 80 09 00
+        E 0 90 44 60
+        E 3840 80 44 00
+        E 0 90 14 60
+        E 3840 80 14 00
+        E 0 90 26 60
+        E 3840 80 26 00
+        E 0 90 1f 60
+        E 2880 80 1f 00
+        E 0 90 03 60
+        E 4320 80 03 00
+        E 0 90 39 60
+        E 2400 80 39 00
+        E 0 90 04 60
+        E 1920 80 04 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 19 60
+        E 3840 80 19 00
+        E 0 90 2b 60
+        <X 600 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 1320 80 2b 00
+        E 0 90 18 60
+        E 1920 80 18 00
+        E 0 90 1d 60
+        E 3840 80 1d 00
+        E 0 90 4a 60
+        E 3840 80 4a 00
+        E 0 90 0b 60
+        E 3840 80 0b 00
+        E 0 90 1c 60
+        E 1920 80 1c 00
+        E 0 90 3c 60
+        E 1920 80 3c 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 1a 60
+        E 1920 80 1a 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 03 60
+        E 3360 80 03 00
+        E 0 90 18 60
+        E 1920 80 18 00
+        E 0 90 14 60
+        E 2400 80 14 00
+        E 0 90 1d 60
+        E 1560 80 1d 00
+        E 0 90 0b 60
+        E 1800 80 0b 00
+        E 0 90 03 60
+        E 2400 80 03 00
+        E 0 90 08 60
+        <X 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 1800 80 08 00
+        E 0 90 4b 60
+        E 5760 80 4b 00
+        E 0 90 18 60
+        E 1920 80 18 00
+        E 0 90 03 60
+        E 1920 80 03 00
+        E 0 90 14 60
+        E 1920 80 14 00
+        E 0 90 09 60
+        E 1920 80 09 00
+        E 0 90 40 60
+        E 1920 80 40 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 1c 60
+        E 1920 80 1c 00
+        E 0 90 0e 60
+        E 3360 80 0e 00
+        E 0 90 04 60
+        E 2640 80 04 00
+        E 0 90 03 60
+        E 2400 80 03 00
+        E 0 90 06 60
+        E 5040 80 06 00
+        E 0 90 1c 60
+        E 3840 80 1c 00
+        E 0 90 1a 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2280 80 1a 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 30 60
+        E 3840 80 30 00
+        E 0 90 19 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1800 80 19 00
+        E 0 90 03 60
+        E 8160 80 03 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 15 60
+        E 1680 80 15 00
+        E 0 90 04 60
+        E 2640 80 04 00
+        E 0 90 1c 60
+        E 480 80 1c 00
+        E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
         GUID {7191CD67-D7F2-4A0B-8E01-536E333CAA18}
         IGNTEMPO 0 120 4 4
         SRCCOLOR 13
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 0 0.083299 61 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 230985.534702 0.048725 91 12 0 -1 0 0 0 0.5
         KEYSNAP 0
-        TRACKSEL 216
+        TRACKSEL 189
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -24395,12 +24955,15 @@
         E 3660 80 35 00
         E 0 90 2b 60
         E 60 90 5f 60
-        E 13440 80 5f 00
+        E 13320 90 61 60
+        E 120 80 5f 00
         E 0 90 5e 60
         E 1380 80 2b 00
         E 0 90 28 60
         E 60 80 53 00
+        E 0 80 61 00
         E 0 90 51 60
+        E 0 90 60 60
         E 120 80 51 00
         E 0 90 3a 60
         E 360 80 3a 00
@@ -24459,7 +25022,8 @@
         E 0 90 2b 60
         E 60 80 3a 00
         E 0 90 52 60
-        E 480 80 52 00
+        E 480 80 60 00
+        E 0 80 52 00
         E 0 90 53 60
         E 0 90 61 60
         E 3300 80 2b 00
@@ -25691,11 +26255,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 13
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 264169.978874 0.083299 61 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 15935.442319 0.083299 29 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -25827,7 +26391,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 486 62 1845 787 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 26 25 944 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -25846,7 +26410,7 @@
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
     SEL 0
-    REC 0 0 1 0 0 0 0 0
+    REC 0 0 2 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
