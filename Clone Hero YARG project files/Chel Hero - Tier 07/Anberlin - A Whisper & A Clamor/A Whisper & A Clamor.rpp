@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1790776755
+<REAPER_PROJECT 0.1 "7.35/win64" 1792509582
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -18,9 +18,9 @@
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 2.83422300000054
-  ZOOM 100 0 0
-  VZOOMEX 6 80
+  CURSOR 135.26893424036484
+  ZOOM 100 13047 0
+  VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -229,7 +229,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -280,7 +280,7 @@
         HASDATA 1 480 QN
         CCINTERP 32
         POOLEDEVTS {79954629-C54B-4628-BA3C-A728CFCBDDC4}
-        <X 0 0 0 0 3 "PART GUITAR"
+        <x 0 0 0 0 3 "PART GUITAR"
           /wNQQVJUIEdVSVRBUg==
         >
         E 0 90 69 60
@@ -1127,7 +1127,7 @@
         E 0 91 3d 64
         E 1 81 63 64
         E 0 81 3d 64
-        <X 31 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b1]"
+        <x 31 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b1]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYjFd
         >
@@ -1412,7 +1412,11 @@
         E 0 91 3c 64
         E 1 81 62 64
         E 0 81 3c 64
-        E 239 91 62 64
+        <x 67 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a6]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
+          b3JfYTZd
+        >
+        E 172 91 62 64
         E 1 81 62 64
         E 179 81 56 64
         E 0 81 48 64
@@ -1843,7 +1847,7 @@
         E 0 81 57 64
         E 0 81 4b 64
         E 0 81 3e 64
-        <X 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
+        <x 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYjJd
         >
@@ -3299,7 +3303,11 @@
         E 0 91 3c 64
         E 1 81 62 64
         E 0 81 3c 64
-        E 239 91 62 64
+        <x 31 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a7]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
+          b3JfYTdd
+        >
+        E 208 91 62 64
         E 1 81 62 64
         E 179 81 56 64
         E 0 81 48 64
@@ -3732,7 +3740,7 @@
         E 0 91 56 64
         E 1 81 62 64
         E 0 81 56 64
-        <X 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
+        <x 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYjJd
         >
@@ -4850,7 +4858,7 @@
         E 0 81 64 64
         E 0 81 55 64
         E 0 81 58 64
-        <X 199 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b3]"
+        <x 199 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b3]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYjNd
         >
@@ -7104,7 +7112,7 @@
         E 0 81 58 64
         E 0 81 49 64
         E 0 81 4b 64
-        <X 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
+        <x 187 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_b2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYjJd
         >
@@ -8158,11 +8166,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 349
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW -467.18896 0.083478 20 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 97458.196706 0.083478 20 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 4 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -14517,7 +14525,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.0625 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.0625 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -24861,7 +24869,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -24912,59 +24920,59 @@
         HASDATA 1 480 QN
         CCINTERP 32
         POOLEDEVTS {46D1F0BB-47D5-4E58-A5F4-0459E3EA5FDF}
-        <X 0 0 0 0 3 "PART VOCALS"
+        <x 0 0 0 0 3 "PART VOCALS"
           /wNQQVJUIFZPQ0FMUw==
         >
         E 19200 90 69 60
         E 0 91 68 60
-        <X 7260 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a1]"
+        <x 7260 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a1]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTFd
         >
         E 420 80 69 00
         E 0 81 68 00
         E 1200 90 69 64
-        <X 240 0 0 0 5 Grow-
+        <x 240 0 0 0 5 Grow-
           /wVHcm93LQ==
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 37 64
         E 120 90 37 00
-        <X 120 0 0 0 5 tired
+        <x 120 0 0 0 5 tired
           /wV0aXJlZA==
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 60 0 0 0 5 of
+        <x 60 0 0 0 5 of
           /wVvZg==
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 120 0 0 0 5 bed-
+        <x 120 0 0 0 5 bed-
           /wViZWQt
         >
         E 0 90 35 64
         E 240 90 35 00
-        <X 240 0 0 0 5 side
+        <x 240 0 0 0 5 side
           /wVzaWRl
         >
         E 0 90 37 64
         E 240 90 37 00
-        <X 240 0 0 0 5 re-
+        <x 240 0 0 0 5 re-
           /wVyZS0=
         >
         E 0 90 35 64
         E 120 90 35 00
-        <X 120 0 0 0 5 solve
+        <x 120 0 0 0 5 solve
           /wVzb2x2ZQ==
         >
         E 0 90 37 64
@@ -24972,50 +24980,50 @@
         E 0 90 37 00
         E 60 90 68 64
         E 0 90 69 64
-        <X 60 0 0 0 5 (Politics,
+        <x 60 0 0 0 5 (Politics,
           /wUoUG9saXRpY3Ms
         >
-        <X 900 0 0 0 5 lay
+        <x 900 0 0 0 5 lay
           /wVsYXk=
         >
-        <X 360 0 0 0 5 out
+        <x 360 0 0 0 5 out
           /wVvdXQ=
         >
-        <X 420 0 0 0 5 the
+        <x 420 0 0 0 5 the
           /wV0aGU=
         >
-        <X 240 0 0 0 5 pressure)
+        <x 240 0 0 0 5 pressure)
           /wVwcmVzc3VyZSk=
         >
         E 900 90 68 00
         E 0 90 69 00
         E 0 90 69 64
-        <X 60 0 0 0 5 Some-
+        <x 60 0 0 0 5 Some-
           /wVTb21lLQ==
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 60 0 0 0 5 thing's
+        <x 60 0 0 0 5 thing's
           /wV0aGluZydz
         >
         E 0 90 33 64
         E 180 90 33 00
-        <X 300 0 0 0 5 got
+        <x 300 0 0 0 5 got
           /wVnb3Q=
         >
         E 0 90 35 64
         E 240 90 35 00
-        <X 240 0 0 0 5 to
+        <x 240 0 0 0 5 to
           /wV0bw==
         >
         E 0 90 33 64
         E 240 90 33 00
-        <X 240 0 0 0 5 give
+        <x 240 0 0 0 5 give
           /wVnaXZl
         >
         E 0 90 35 64
         E 300 90 35 00
-        <X 180 0 0 0 5 now
+        <x 180 0 0 0 5 now
           /wVub3c=
         >
         E 0 90 30 64
@@ -25023,169 +25031,173 @@
         E 240 90 69 00
         E 240 90 69 64
         E 0 90 74 60
-        <X 240 0 0 0 5 Some-
+        <x 240 0 0 0 5 Some-
           /wVTb21lLQ==
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 120 0 0 0 5 thing's
+        <x 120 0 0 0 5 thing's
           /wV0aGluZydz
         >
         E 0 90 35 64
         E 240 90 35 00
-        <X 240 0 0 0 5 go-
+        <x 240 0 0 0 5 go-
           /wVnby0=
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 37 64
         E 120 90 37 00
-        <X 120 0 0 0 5 to
+        <x 120 0 0 0 5 to
           /wV0bw==
         >
         E 0 90 38 64
         E 240 90 38 00
-        <X 240 0 0 0 5 break
+        <x 240 0 0 0 5 break
           /wVicmVhaw==
         >
         E 0 90 37 64
         E 300 90 37 00
-        <X 180 0 0 0 5 down
+        <x 180 0 0 0 5 down
           /wVkb3du
         >
         E 0 90 35 64
         E 1140 90 35 00
         E 60 90 69 00
         E 0 80 74 00
-        E 480 90 69 64
-        <X 240 0 0 0 5 I#
+        <x 68 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a6]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
+          b3JfYTZd
+        >
+        E 412 90 69 64
+        <x 240 0 0 0 5 I#
           /wVJIw==
         >
         E 0 90 30 64
         E 120 90 30 00
-        <X 120 0 0 0 5 grow
+        <x 120 0 0 0 5 grow
           /wVncm93
         >
         E 0 90 37 64
         E 300 90 37 00
-        <X 180 0 0 0 5 tired
+        <x 180 0 0 0 5 tired
           /wV0aXJlZA==
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 60 0 0 0 5 of
+        <x 60 0 0 0 5 of
           /wVvZg==
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 120 0 0 0 5 wri-
+        <x 120 0 0 0 5 wri-
           /wV3cmkt
         >
         E 0 90 35 64
         E 420 90 35 00
-        <X 60 0 0 0 5 ting
+        <x 60 0 0 0 5 ting
           /wV0aW5n
         >
         E 0 90 37 64
         E 240 90 37 00
-        <X 240 0 0 0 5 songs
+        <x 240 0 0 0 5 songs
           /wVzb25ncw==
         >
         E 0 90 37 64
         E 840 90 37 00
         E 360 90 69 00
         E 120 90 69 64
-        <X 120 0 0 0 5 While
+        <x 120 0 0 0 5 While
           /wVXaGlsZQ==
         >
         E 0 90 30 64
         E 120 90 30 00
-        <X 120 0 0 0 5 peo-
+        <x 120 0 0 0 5 peo-
           /wVwZW8t
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 60 0 0 0 5 ple
+        <x 60 0 0 0 5 ple
           /wVwbGU=
         >
         E 0 90 37 64
         E 120 90 37 00
-        <X 120 0 0 0 5 lis-
+        <x 120 0 0 0 5 lis-
           /wVsaXMt
         >
         E 0 90 37 64
         E 120 90 37 00
-        <X 120 0 0 0 5 ten
+        <x 120 0 0 0 5 ten
           /wV0ZW4=
         >
         E 0 90 35 64
         E 120 90 35 00
-        <X 120 0 0 0 5 but
+        <x 120 0 0 0 5 but
           /wVidXQ=
         >
         E 0 90 33 64
         E 240 90 33 00
-        <X 240 0 0 0 5 ne-
+        <x 240 0 0 0 5 ne-
           /wVuZS0=
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 60 0 0 0 5 ver
+        <x 60 0 0 0 5 ver
           /wV2ZXI=
         >
         E 0 90 37 64
         E 300 90 37 00
-        <X 180 0 0 0 5 hear
+        <x 180 0 0 0 5 hear
           /wVoZWFy
         >
         E 0 90 37 64
         E 360 90 69 00
         E 0 90 37 00
         E 60 90 69 64
-        <X 60 0 0 0 5 What's
+        <x 60 0 0 0 5 What's
           /wVXaGF0J3M=
         >
         E 0 90 37 64
         E 300 90 37 00
-        <X 420 0 0 0 5 rea-
+        <x 420 0 0 0 5 rea-
           /wVyZWEt
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 60 0 0 0 5 lly
+        <x 60 0 0 0 5 lly
           /wVsbHk=
         >
         E 0 90 33 64
         E 240 90 33 00
-        <X 240 0 0 0 5 go-
+        <x 240 0 0 0 5 go-
           /wVnby0=
         >
         E 0 90 35 64
         E 360 90 35 00
-        <X 120 0 0 0 5 ing
+        <x 120 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 33 64
         E 360 90 33 00
-        <X 120 0 0 0 5 on
+        <x 120 0 0 0 5 on
           /wVvbg==
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 30 64
         E 60 90 30 00
-        <X 120 0 0 0 5 now
+        <x 120 0 0 0 5 now
           /wVub3c=
         >
         E 0 90 30 64
@@ -25193,32 +25205,32 @@
         E 240 90 69 00
         E 240 90 69 64
         E 0 90 74 60
-        <X 240 0 0 0 5 Tell
+        <x 240 0 0 0 5 Tell
           /wVUZWxs
         >
         E 0 90 33 64
         E 120 90 33 00
-        <X 120 0 0 0 5 me,
+        <x 120 0 0 0 5 me,
           /wVtZSw=
         >
         E 0 90 35 64
         E 300 90 35 00
-        <X 180 0 0 0 5 what's
+        <x 180 0 0 0 5 what's
           /wV3aGF0J3M=
         >
         E 0 90 37 64
         E 240 90 37 00
-        <X 240 0 0 0 5 so
+        <x 240 0 0 0 5 so
           /wVzbw==
         >
         E 0 90 38 64
         E 420 90 38 00
-        <X 60 0 0 0 5 wrong
+        <x 60 0 0 0 5 wrong
           /wV3cm9uZw==
         >
         E 0 90 37 64
         E 360 90 37 00
-        <X 120 0 0 0 5 now?
+        <x 120 0 0 0 5 now?
           /wVub3c/
         >
         E 0 90 35 64
@@ -25229,39 +25241,39 @@
         E 0 91 68 60
         E 3360 80 69 00
         E 0 81 68 00
-        <X 112 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
+        <x 112 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTJd
         >
         E 128 90 69 64
-        <X 240 0 0 0 5 Clap
+        <x 240 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -25269,70 +25281,70 @@
         E 0 90 46 64
         E 0 90 69 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 ing
+        <x 180 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 600 90 43 00
         E 120 90 69 00
         E 120 90 69 64
-        <X 120 0 0 0 5 Clap
+        <x 120 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 1440 90 46 00
-        <X 480 0 0 0 5 (Tonight)
+        <x 480 0 0 0 5 (Tonight)
           /wUoVG9uaWdodCk=
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 1440 0 0 0 5 Hear
+        <x 1440 0 0 0 5 Hear
           /wVIZWFy
         >
         E 0 80 68 00
@@ -25341,50 +25353,50 @@
         E 0 90 69 64
         E 0 90 74 60
         E 360 90 41 00
-        <X 120 0 0 0 5 what
+        <x 120 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 si-
+        <x 240 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 43 64
         E 180 90 43 00
-        <X 60 0 0 0 5 lence
+        <x 60 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 screams
+        <x 240 0 0 0 5 screams
           /wVzY3JlYW1z
         >
         E 0 90 43 64
         E 720 90 43 00
         E 180 90 69 00
         E 0 80 74 00
-        <X 60 0 0 0 5 (Clap
+        <x 60 0 0 0 5 (Clap
           /wUoQ2xhcA==
         >
         E 0 90 68 60
         E 0 90 69 60
-        <X 1920 0 0 0 5 your
+        <x 1920 0 0 0 5 your
           /wV5b3Vy
         >
-        <X 1920 0 0 0 5 hands)
+        <x 1920 0 0 0 5 hands)
           /wVoYW5kcyk=
         >
-        <X 480 0 0 0 5 Clap
+        <x 480 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 80 68 00
@@ -25392,76 +25404,76 @@
         E 0 90 41 64
         E 0 90 69 64
         E 120 90 41 00
-        <X 120 0 0 0 5 your
+        <x 120 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 hands
+        <x 60 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 now,
+        <x 180 0 0 0 5 now,
           /wVub3cs
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 all
+        <x 120 0 0 0 5 all
           /wVhbGw=
         >
         E 0 90 41 64
         E 360 90 41 00
-        <X 120 0 0 0 5 ye
+        <x 120 0 0 0 5 ye
           /wV5ZQ==
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 child-
+        <x 180 0 0 0 5 child-
           /wVjaGlsZC0=
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 3f 64
         E 120 90 3f 00
-        <X 120 0 0 0 5 ren
+        <x 120 0 0 0 5 ren
           /wVyZW4=
         >
         E 0 90 3f 64
         E 360 90 69 00
         E 0 90 3f 00
         E 60 90 69 64
-        <X 60 0 0 0 5 Clap
+        <x 60 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -25470,56 +25482,56 @@
         E 0 90 69 64
         E 0 90 74 60
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 to-
+        <x 240 0 0 0 5 to-
           /wV0by0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 night
+        <x 60 0 0 0 5 night
           /wVuaWdodA==
         >
         E 0 90 43 64
-        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a3]"
+        <x 115 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a3]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTNd
         >
@@ -25527,127 +25539,131 @@
         E 120 90 69 00
         E 0 80 74 00
         E 480 90 69 64
-        <X 240 0 0 0 5 For
+        <x 240 0 0 0 5 For
           /wVGb3I=
         >
         E 0 90 35 64
         E 120 90 35 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 120 0 0 0 5 most
+        <x 120 0 0 0 5 most
           /wVtb3N0
         >
         E 0 90 37 64
         E 300 90 37 00
-        <X 180 0 0 0 5 of
+        <x 180 0 0 0 5 of
           /wVvZg==
         >
         E 0 90 33 64
         E 180 90 33 00
-        <X 60 0 0 0 5 men
+        <x 60 0 0 0 5 men
           /wVtZW4=
         >
         E 0 90 35 64
         E 300 90 35 00
-        <X 180 0 0 0 5 that
+        <x 180 0 0 0 5 that
           /wV0aGF0
         >
         E 0 90 37 64
         E 240 90 37 00
-        <X 240 0 0 0 5 bel-
+        <x 240 0 0 0 5 bel-
           /wViZWwt
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 60 0 0 0 5 ieve
+        <x 60 0 0 0 5 ieve
           /wVpZXZl
         >
         E 0 90 37 64
         E 840 90 37 00
         E 120 90 69 00
         E 720 90 69 64
-        <X 240 0 0 0 5 Hell
+        <x 240 0 0 0 5 Hell
           /wVIZWxs
         >
         E 0 90 37 64
         E 180 90 37 00
-        <X 60 0 0 0 5 is
+        <x 60 0 0 0 5 is
           /wVpcw==
         >
         E 0 90 35 64
         E 240 90 35 00
-        <X 240 0 0 0 5 ne-
+        <x 240 0 0 0 5 ne-
           /wVuZS0=
         >
         E 0 90 35 64
         E 300 90 35 00
-        <X 180 0 0 0 5 ver
+        <x 180 0 0 0 5 ver
           /wV2ZXI=
         >
         E 0 90 33 64
         E 480 90 33 00
-        <X 240 0 0 0 5 know-
+        <x 240 0 0 0 5 know-
           /wVrbm93LQ==
         >
         E 0 90 35 64
         E 180 90 35 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 33 64
         E 240 90 33 00
-        <X 240 0 0 0 5 who
+        <x 240 0 0 0 5 who
           /wV3aG8=
         >
         E 0 90 35 64
         E 360 90 35 00
-        <X 120 0 0 0 5 they
+        <x 120 0 0 0 5 they
           /wV0aGV5
         >
         E 0 90 33 64
         E 420 90 33 00
-        <X 60 0 0 0 5 are
+        <x 60 0 0 0 5 are
           /wVhcmU=
         >
         E 0 90 35 64
         E 300 90 35 00
-        <X 180 0 0 0 5 now
+        <x 180 0 0 0 5 now
           /wVub3c=
         >
         E 0 90 30 64
         E 840 90 30 00
         E 120 90 69 00
-        E 480 90 69 64
+        <x 272 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a7]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
+          b3JfYTdd
+        >
+        E 208 90 69 64
         E 0 90 74 60
-        <X 240 0 0 0 5 Tell
+        <x 240 0 0 0 5 Tell
           /wVUZWxs
         >
         E 0 90 33 64
         E 135 90 33 00
-        <X 105 0 0 0 5 me
+        <x 105 0 0 0 5 me
           /wVtZQ==
         >
         E 0 90 35 64
         E 360 90 35 00
-        <X 120 0 0 0 5 who
+        <x 120 0 0 0 5 who
           /wV3aG8=
         >
         E 0 90 37 64
         E 360 90 37 00
-        <X 120 0 0 0 5 you
+        <x 120 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 38 64
         E 240 90 38 00
-        <X 240 0 0 0 5 are
+        <x 240 0 0 0 5 are
           /wVhcmU=
         >
         E 0 90 37 64
         E 360 90 37 00
-        <X 120 0 0 0 5 now
+        <x 120 0 0 0 5 now
           /wVub3c=
         >
         E 0 90 35 64
@@ -25655,104 +25671,104 @@
         E 120 90 69 00
         E 0 80 74 00
         E 720 90 69 64
-        <X 240 0 0 0 5 Fi-
+        <x 240 0 0 0 5 Fi-
           /wVGaS0=
         >
         E 0 90 43 64
         E 60 90 43 00
-        <X 60 0 0 0 5 na-
+        <x 60 0 0 0 5 na-
           /wVuYS0=
         >
         E 0 90 43 64
         E 60 90 43 00
-        <X 60 0 0 0 5 lly
+        <x 60 0 0 0 5 lly
           /wVsbHk=
         >
         E 0 90 43 64
         E 120 90 43 00
-        <X 120 0 0 0 5 saved
+        <x 120 0 0 0 5 saved
           /wVzYXZlZA==
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 300 0 0 0 5 from
+        <x 300 0 0 0 5 from
           /wVmcm9t
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 60 0 0 0 5 out-
+        <x 60 0 0 0 5 out-
           /wVvdXQt
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 side,
+        <x 240 0 0 0 5 side,
           /wVzaWRlLA==
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 trapped
+        <x 240 0 0 0 5 trapped
           /wV0cmFwcGVk
         >
         E 0 90 3f 64
         E 300 90 3f 00
-        <X 180 0 0 0 5 in
+        <x 180 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 41 64
         E 240 90 41 00
-        <X 240 0 0 0 5 what
+        <x 240 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 you
+        <x 240 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 know
+        <x 240 0 0 0 5 know
           /wVrbm93
         >
         E 0 90 41 64
         E 720 90 41 00
         E 240 90 69 00
         E 120 90 69 64
-        <X 120 0 0 0 5 Are
+        <x 120 0 0 0 5 Are
           /wVBcmU=
         >
         E 0 90 3f 64
         E 300 90 3f 00
-        <X 180 0 0 0 5 you
+        <x 180 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 300 0 0 0 5 safe
+        <x 300 0 0 0 5 safe
           /wVzYWZl
         >
         E 0 90 41 64
         E 480 90 41 00
-        <X 240 0 0 0 5 from
+        <x 240 0 0 0 5 from
           /wVmcm9t
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 your-
+        <x 180 0 0 0 5 your-
           /wV5b3VyLQ==
         >
         E 0 90 41 64
         E 60 90 41 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 43 64
         E 120 90 43 00
-        <X 240 0 0 0 5 self?
+        <x 240 0 0 0 5 self?
           /wVzZWxmPw==
         >
         E 0 90 3c 64
@@ -25760,86 +25776,86 @@
         E 480 90 69 00
         E 480 90 69 64
         E 0 90 74 60
-        <X 240 0 0 0 5 Can
+        <x 240 0 0 0 5 Can
           /wVDYW4=
         >
         E 0 90 3c 64
         E 120 90 3c 00
-        <X 120 0 0 0 5 you
+        <x 120 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 60 0 0 0 5 es-
+        <x 60 0 0 0 5 es-
           /wVlcy0=
         >
         E 0 90 41 64
         E 240 90 41 00
-        <X 240 0 0 0 5 cape
+        <x 240 0 0 0 5 cape
           /wVjYXBl
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 all
+        <x 180 0 0 0 5 all
           /wVhbGw=
         >
         E 0 90 44 64
         E 300 90 44 00
-        <X 180 0 0 0 5 by
+        <x 180 0 0 0 5 by
           /wVieQ==
         >
         E 0 90 43 64
         E 180 90 43 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 your-
+        <x 60 0 0 0 5 your-
           /wV5b3VyLQ==
         >
         E 0 90 41 64
         E 240 90 41 00
-        <X 240 0 0 0 5 self?
+        <x 240 0 0 0 5 self?
           /wVzZWxmPw==
         >
         E 0 90 41 64
         E 660 90 41 00
         E 60 90 69 00
         E 0 80 74 00
-        <X 112 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
+        <x 112 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTJd
         >
         E 128 90 69 64
-        <X 240 0 0 0 5 Clap
+        <x 240 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -25847,70 +25863,70 @@
         E 0 90 46 64
         E 0 90 69 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 ing
+        <x 180 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 600 90 43 00
         E 120 90 69 00
         E 120 90 69 64
-        <X 120 0 0 0 5 Clap
+        <x 120 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 1440 90 46 00
-        <X 480 0 0 0 5 (Tonight)
+        <x 480 0 0 0 5 (Tonight)
           /wUoVG9uaWdodCk=
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 1440 0 0 0 5 Hear
+        <x 1440 0 0 0 5 Hear
           /wVIZWFy
         >
         E 0 80 68 00
@@ -25919,50 +25935,50 @@
         E 0 90 69 64
         E 0 90 74 60
         E 360 90 41 00
-        <X 120 0 0 0 5 what
+        <x 120 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 si-
+        <x 240 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 43 64
         E 180 90 43 00
-        <X 60 0 0 0 5 lence
+        <x 60 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 screams
+        <x 240 0 0 0 5 screams
           /wVzY3JlYW1z
         >
         E 0 90 43 64
         E 720 90 43 00
         E 180 90 69 00
         E 0 80 74 00
-        <X 60 0 0 0 5 (Clap
+        <x 60 0 0 0 5 (Clap
           /wUoQ2xhcA==
         >
         E 0 90 68 60
         E 0 90 69 60
-        <X 1920 0 0 0 5 your
+        <x 1920 0 0 0 5 your
           /wV5b3Vy
         >
-        <X 1920 0 0 0 5 hands)
+        <x 1920 0 0 0 5 hands)
           /wVoYW5kcyk=
         >
-        <X 480 0 0 0 5 Clap
+        <x 480 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 80 68 00
@@ -25970,76 +25986,76 @@
         E 0 90 41 64
         E 0 90 69 64
         E 120 90 41 00
-        <X 120 0 0 0 5 your
+        <x 120 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 hands
+        <x 60 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 now,
+        <x 180 0 0 0 5 now,
           /wVub3cs
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 all
+        <x 120 0 0 0 5 all
           /wVhbGw=
         >
         E 0 90 41 64
         E 360 90 41 00
-        <X 120 0 0 0 5 ye
+        <x 120 0 0 0 5 ye
           /wV5ZQ==
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 child-
+        <x 180 0 0 0 5 child-
           /wVjaGlsZC0=
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 3f 64
         E 120 90 3f 00
-        <X 120 0 0 0 5 ren
+        <x 120 0 0 0 5 ren
           /wVyZW4=
         >
         E 0 90 3f 64
         E 360 90 69 00
         E 0 90 3f 00
         E 60 90 69 64
-        <X 60 0 0 0 5 Clap
+        <x 60 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -26048,74 +26064,74 @@
         E 0 90 69 64
         E 0 90 74 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 to-
+        <x 240 0 0 0 5 to-
           /wV0by0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 night
+        <x 60 0 0 0 5 night
           /wVuaWdodA==
         >
         E 0 90 43 64
         E 840 90 43 00
-        <X 120 0 0 0 5 (Clap
+        <x 120 0 0 0 5 (Clap
           /wUoQ2xhcA==
         >
         E 0 90 69 00
         E 0 80 74 00
         E 0 90 69 64
         E 0 90 68 60
-        <X 1200 0 0 0 5 your
+        <x 1200 0 0 0 5 your
           /wV5b3Vy
         >
-        <X 1387 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a4]"
+        <x 1387 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a4]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTRd
         >
-        <X 533 0 0 0 5 hands)
+        <x 533 0 0 0 5 hands)
           /wVoYW5kcyk=
         >
-        <X 480 0 0 0 5 Clap
+        <x 480 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 69 00
@@ -26123,59 +26139,59 @@
         E 0 90 41 64
         E 0 90 69 60
         E 120 90 41 00
-        <X 120 0 0 0 5 your
+        <x 120 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 hands
+        <x 60 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 now,
+        <x 180 0 0 0 5 now,
           /wVub3cs
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 all
+        <x 120 0 0 0 5 all
           /wVhbGw=
         >
         E 0 90 41 64
         E 360 90 41 00
-        <X 120 0 0 0 5 ye
+        <x 120 0 0 0 5 ye
           /wV5ZQ==
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 child-
+        <x 180 0 0 0 5 child-
           /wVjaGlsZC0=
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 3f 64
         E 120 90 3f 00
-        <X 120 0 0 0 5 ren
+        <x 120 0 0 0 5 ren
           /wVyZW4=
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 (Clap
+        <x 120 0 0 0 5 (Clap
           /wUoQ2xhcA==
         >
         E 0 80 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 1920 0 0 0 5 your
+        <x 1920 0 0 0 5 your
           /wV5b3Vy
         >
-        <X 1920 0 0 0 5 hands)
+        <x 1920 0 0 0 5 hands)
           /wVoYW5kcyk=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -26184,52 +26200,52 @@
         E 0 90 69 64
         E 0 90 74 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 to-
+        <x 240 0 0 0 5 to-
           /wV0by0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 night
+        <x 60 0 0 0 5 night
           /wVuaWdodA==
         >
         E 0 90 43 64
@@ -26238,49 +26254,49 @@
         E 0 80 74 00
         E 0 90 69 60
         E 0 90 68 60
-        <X 14268 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a5]"
+        <x 14268 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a5]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTVd
         >
         E 372 80 69 00
         E 0 80 68 00
         E 240 90 69 64
-        <X 240 0 0 0 5 It's
+        <x 240 0 0 0 5 It's
           /wVJdCdz
         >
         E 0 90 3c 64
         E 300 90 3c 00
-        <X 180 0 0 0 5 not
+        <x 180 0 0 0 5 not
           /wVub3Q=
         >
         E 0 90 3f 64
         E 300 90 3f 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 lives
+        <x 60 0 0 0 5 lives
           /wVsaXZlcw==
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 that
+        <x 120 0 0 0 5 that
           /wV0aGF0
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 you
+        <x 240 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 save
+        <x 240 0 0 0 5 save
           /wVzYXZl
         >
         E 0 90 45 64
         E 120 90 45 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 46 64
@@ -26288,57 +26304,57 @@
         E 240 90 69 00
         E 240 90 69 64
         E 0 90 74 64
-        <X 480 0 0 0 5 But
+        <x 480 0 0 0 5 But
           /wVCdXQ=
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 what
+        <x 240 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 the
+        <x 240 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 180 90 3c 00
-        <X 300 0 0 0 5 si-
+        <x 300 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 lence
+        <x 120 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 will
+        <x 240 0 0 0 5 will
           /wV3aWxs
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 scream
+        <x 240 0 0 0 5 scream
           /wVzY3JlYW0=
         >
         E 0 90 3f 64
         E 180 90 3f 00
-        <X 180 0 0 0 5 +
+        <x 180 0 0 0 5 +
           /wUr
         >
         E 0 90 41 64
         E 1500 90 41 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 3f 64
         E 900 90 3f 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 3e 64
         E 780 90 3e 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 3c 64
@@ -26346,37 +26362,37 @@
         E 120 90 69 00
         E 0 80 74 00
         E 120 90 69 64
-        <X 120 0 0 0 5 It's
+        <x 120 0 0 0 5 It's
           /wVJdCdz
         >
         E 0 90 3c 64
         E 300 90 3c 00
-        <X 180 0 0 0 5 not
+        <x 180 0 0 0 5 not
           /wVub3Q=
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 the
+        <x 240 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 lives
+        <x 60 0 0 0 5 lives
           /wVsaXZlcw==
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 that
+        <x 120 0 0 0 5 that
           /wV0aGF0
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 you'll
+        <x 240 0 0 0 5 you'll
           /wV5b3UnbGw=
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 save
+        <x 240 0 0 0 5 save
           /wVzYXZl
         >
         E 0 90 46 64
@@ -26384,52 +26400,52 @@
         E 240 90 69 00
         E 960 90 69 64
         E 0 90 74 64
-        <X 240 0 0 0 5 But
+        <x 240 0 0 0 5 But
           /wVCdXQ=
         >
         E 0 90 3c 64
         E 180 90 3c 00
-        <X 300 0 0 0 5 what
+        <x 300 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 the
+        <x 240 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 180 90 3c 00
-        <X 300 0 0 0 5 si-
+        <x 300 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 lence
+        <x 120 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 will
+        <x 240 0 0 0 5 will
           /wV3aWxs
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 scream
+        <x 240 0 0 0 5 scream
           /wVzY3JlYW0=
         >
         E 0 90 45 64
         E 120 90 45 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 46 64
         E 1620 90 46 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 44 64
         E 900 90 44 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 43 64
@@ -26437,47 +26453,47 @@
         E 240 90 69 00
         E 0 80 74 00
         E 720 90 69 64
-        <X 240 0 0 0 5 It's
+        <x 240 0 0 0 5 It's
           /wVJdCdz
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 not
+        <x 240 0 0 0 5 not
           /wVub3Q=
         >
         E 0 90 3f 64
         E 300 90 3f 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 420 90 3c 00
-        <X 60 0 0 0 5 lives
+        <x 60 0 0 0 5 lives
           /wVsaXZlcw==
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 that
+        <x 120 0 0 0 5 that
           /wV0aGF0
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 you
+        <x 240 0 0 0 5 you
           /wV5b3U=
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 save
+        <x 240 0 0 0 5 save
           /wVzYXZl
         >
         E 0 90 45 64
         E 120 90 45 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 46 64
         E 2640 90 46 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 45 64
@@ -26485,51 +26501,51 @@
         E 240 90 69 00
         E 1200 90 69 64
         E 0 90 74 64
-        <X 240 0 0 0 5 But
+        <x 240 0 0 0 5 But
           /wVCdXQ=
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 what
+        <x 240 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 the
+        <x 240 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 3c 64
         E 180 90 3c 00
-        <X 300 0 0 0 5 si-
+        <x 300 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 lence
+        <x 120 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 3c 64
         E 240 90 3c 00
-        <X 240 0 0 0 5 will
+        <x 240 0 0 0 5 will
           /wV3aWxs
         >
         E 0 90 3f 64
         E 240 90 3f 00
-        <X 240 0 0 0 5 scream
+        <x 240 0 0 0 5 scream
           /wVzY3JlYW0=
         >
         E 0 90 45 64
         E 120 90 45 00
-        <X 120 0 0 0 5 +
+        <x 120 0 0 0 5 +
           /wUr
         >
         E 0 90 46 64
         E 2940 90 46 00
-        <X 240 0 0 0 5 +
+        <x 240 0 0 0 5 +
           /wUr
         >
         E 0 90 48 64
-        <X 532 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
+        <x 532 0 0 0 1 "[Band_PlayFacialAnim McklAWhisperAClamor_a2]"
           /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsQVdoaXNwZXJBQ2xhbQ==
           b3JfYTJd
         >
@@ -26537,34 +26553,34 @@
         E 60 90 69 00
         E 0 80 74 00
         E 120 90 69 64
-        <X 120 0 0 0 5 Clap
+        <x 120 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -26572,70 +26588,70 @@
         E 0 90 46 64
         E 0 90 69 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 ing
+        <x 180 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 600 90 43 00
         E 120 90 69 00
         E 120 90 69 64
-        <X 120 0 0 0 5 Clap
+        <x 120 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 1440 90 46 00
-        <X 480 0 0 0 5 (Tonight)
+        <x 480 0 0 0 5 (Tonight)
           /wUoVG9uaWdodCk=
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 1440 0 0 0 5 Hear
+        <x 1440 0 0 0 5 Hear
           /wVIZWFy
         >
         E 0 80 68 00
@@ -26643,49 +26659,49 @@
         E 0 90 41 64
         E 0 90 69 64
         E 360 90 41 00
-        <X 120 0 0 0 5 what
+        <x 120 0 0 0 5 what
           /wV3aGF0
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 the
+        <x 180 0 0 0 5 the
           /wV0aGU=
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 si-
+        <x 240 0 0 0 5 si-
           /wVzaS0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 43 64
         E 180 90 43 00
-        <X 60 0 0 0 5 lence
+        <x 60 0 0 0 5 lence
           /wVsZW5jZQ==
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 screams
+        <x 240 0 0 0 5 screams
           /wVzY3JlYW1z
         >
         E 0 90 43 64
         E 720 90 43 00
         E 180 90 69 00
-        <X 60 0 0 0 5 (Clap
+        <x 60 0 0 0 5 (Clap
           /wUoQ2xhcA==
         >
         E 0 90 68 60
         E 0 90 69 60
-        <X 1920 0 0 0 5 your
+        <x 1920 0 0 0 5 your
           /wV5b3Vy
         >
-        <X 1920 0 0 0 5 hands)
+        <x 1920 0 0 0 5 hands)
           /wVoYW5kcyk=
         >
-        <X 480 0 0 0 5 Clap
+        <x 480 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 80 68 00
@@ -26693,76 +26709,76 @@
         E 0 90 41 64
         E 0 90 69 64
         E 120 90 41 00
-        <X 120 0 0 0 5 your
+        <x 120 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 hands
+        <x 60 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 41 64
         E 300 90 41 00
-        <X 180 0 0 0 5 now,
+        <x 180 0 0 0 5 now,
           /wVub3cs
         >
         E 0 90 3f 64
         E 360 90 3f 00
-        <X 120 0 0 0 5 all
+        <x 120 0 0 0 5 all
           /wVhbGw=
         >
         E 0 90 41 64
         E 360 90 41 00
-        <X 120 0 0 0 5 ye
+        <x 120 0 0 0 5 ye
           /wV5ZQ==
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 child-
+        <x 180 0 0 0 5 child-
           /wVjaGlsZC0=
         >
         E 0 90 41 64
         E 180 90 41 00
-        <X 60 0 0 0 5 +
+        <x 60 0 0 0 5 +
           /wUr
         >
         E 0 90 3f 64
         E 120 90 3f 00
-        <X 120 0 0 0 5 ren
+        <x 120 0 0 0 5 ren
           /wVyZW4=
         >
         E 0 90 3f 64
         E 360 90 69 00
         E 0 90 3f 00
         E 60 90 69 64
-        <X 60 0 0 0 5 Clap
+        <x 60 0 0 0 5 Clap
           /wVDbGFw
         >
         E 0 90 46 64
         E 240 90 46 00
-        <X 240 0 0 0 5 your
+        <x 240 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 43 64
         E 300 90 43 00
-        <X 180 0 0 0 5 hands
+        <x 180 0 0 0 5 hands
           /wVoYW5kcw==
         >
         E 0 90 46 64
         E 840 90 46 00
-        <X 120 0 0 0 5 (All
+        <x 120 0 0 0 5 (All
           /wUoQWxs
         >
         E 0 90 69 00
         E 0 90 68 60
         E 0 90 69 60
-        <X 960 0 0 0 5 ye
+        <x 960 0 0 0 5 ye
           /wV5ZQ==
         >
-        <X 960 0 0 0 5 children)
+        <x 960 0 0 0 5 children)
           /wVjaGlsZHJlbik=
         >
-        <X 480 0 0 0 5 There's
+        <x 480 0 0 0 5 There's
           /wVUaGVyZSdz
         >
         E 0 80 68 00
@@ -26770,52 +26786,52 @@
         E 0 90 46 64
         E 0 90 69 64
         E 180 90 46 00
-        <X 60 0 0 0 5 a
+        <x 60 0 0 0 5 a
           /wVh
         >
         E 0 90 46 64
         E 120 90 46 00
-        <X 120 0 0 0 5 cla-
+        <x 120 0 0 0 5 cla-
           /wVjbGEt
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 mor
+        <x 60 0 0 0 5 mor
           /wVtb3I=
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 in
+        <x 60 0 0 0 5 in
           /wVpbg==
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 your
+        <x 60 0 0 0 5 your
           /wV5b3Vy
         >
         E 0 90 44 64
         E 120 90 44 00
-        <X 120 0 0 0 5 whis-
+        <x 120 0 0 0 5 whis-
           /wV3aGlzLQ==
         >
         E 0 90 44 64
         E 240 90 44 00
-        <X 240 0 0 0 5 per-
+        <x 240 0 0 0 5 per-
           /wVwZXIt
         >
         E 0 90 43 64
         E 420 90 43 00
-        <X 60 0 0 0 5 ing
+        <x 60 0 0 0 5 ing
           /wVpbmc=
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 to-
+        <x 240 0 0 0 5 to-
           /wV0by0=
         >
         E 0 90 46 64
         E 180 90 46 00
-        <X 60 0 0 0 5 night
+        <x 60 0 0 0 5 night
           /wVuaWdodA==
         >
         E 0 90 43 64
@@ -26828,11 +26844,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 352
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 272442.933425 0.099109 48 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 95317.499177 0.0609 48 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -26997,8 +27013,247 @@
         <X 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
+        E 0 90 1e 60
+        E 3840 80 1e 00
+        E 0 90 03 60
+        <X 720 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 3120 80 03 00
+        E 0 90 09 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 09 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 0a 60
+        <X 1080 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2760 80 0a 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 05 60
+        E 3600 80 05 00
+        E 0 90 19 60
+        <X 840 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 19 00
+        E 0 90 1e 60
+        E 1200 80 1e 00
+        E 0 90 05 60
+        E 3360 80 05 00
+        E 0 90 03 60
+        <X 240 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 2880 80 03 00
+        E 0 90 15 60
+        E 3840 80 15 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 19 60
+        <X 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 19 00
+        E 0 90 05 60
+        E 3840 80 05 00
         E 0 90 30 60
-        E 278400 80 30 00
+        <X 240 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 1680 80 30 00
+        E 0 90 08 60
+        E 1920 80 08 00
+        E 0 90 3d 60
+        E 3840 80 3d 00
+        E 0 90 05 60
+        E 2760 80 05 00
+        E 0 90 23 60
+        E 1080 80 23 00
+        E 0 90 45 60
+        <X 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 3240 80 45 00
+        E 0 90 04 60
+        E 7440 80 04 00
+        E 0 90 1f 60
+        E 2160 80 1f 00
+        E 0 90 05 60
+        E 4320 80 05 00
+        E 0 90 1a 60
+        <X 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 1a 00
+        E 0 90 2b 60
+        E 3840 80 2b 00
+        E 0 90 26 60
+        <X 1080 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 2760 80 26 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 04 60
+        E 1920 80 04 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 19 60
+        <X 1080 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2760 80 19 00
+        E 0 90 1c 60
+        E 1440 80 1c 00
+        E 0 90 04 60
+        E 6000 80 04 00
+        E 0 90 0a 60
+        <X 1320 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 0a 00
+        E 0 90 23 60
+        E 1440 80 23 00
+        E 0 90 03 60
+        E 6720 80 03 00
+        E 0 90 09 60
+        <X 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 2280 80 09 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 04 60
+        <X 1080 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 04 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 4a 60
+        E 3840 80 4a 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 03 60
+        E 2400 80 03 00
+        E 0 90 04 60
+        E 3360 80 04 00
+        E 0 90 30 60
+        <X 120 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 1800 80 30 00
+        E 0 90 44 60
+        E 3840 80 44 00
+        E 0 90 1c 60
+        E 3840 80 1c 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 05 60
+        E 2400 80 05 00
+        E 0 90 40 60
+        E 1440 80 40 00
+        E 0 90 4b 60
+        E 3840 80 4b 00
+        E 0 90 06 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2280 80 06 00
+        E 0 90 13 60
+        E 1920 80 13 00
+        E 0 90 04 60
+        E 1920 80 04 00
+        E 0 90 39 60
+        E 3840 80 39 00
+        E 0 90 19 60
+        <X 2520 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 19 00
+        E 0 90 05 60
+        <X 840 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 3000 80 05 00
+        E 0 90 03 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 4200 80 03 00
+        E 0 90 21 60
+        E 1920 80 21 00
+        E 0 90 06 60
+        E 7680 80 06 00
+        E 0 90 1a 60
+        <X 2520 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 1a 00
+        E 0 90 2d 60
+        E 3840 80 2d 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 19 60
+        E 2880 80 19 00
+        E 0 90 21 60
+        E 960 80 21 00
+        E 0 90 04 60
+        E 3120 80 04 00
+        E 0 90 05 60
+        E 2760 80 05 00
+        E 0 90 23 60
+        E 1800 80 23 00
+        E 0 90 4a 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2280 80 4a 00
+        E 0 90 3f 60
+        E 3840 80 3f 00
+        E 0 90 15 60
+        E 2760 80 15 00
+        E 0 90 03 60
+        E 4920 80 03 00
+        E 0 90 44 60
+        E 3840 80 44 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 04 60
+        E 4320 80 04 00
+        E 0 90 3a 60
+        E 3360 80 3a 00
+        E 0 90 1c 60
+        E 3840 80 1c 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 21 60
+        E 3840 80 21 00
+        e 0 90 1f 60
+        e 3840 80 1f 00
+        E 0 90 03 60
+        E 3840 80 03 00
+        E 0 90 09 60
+        E 4080 80 09 00
+        E 0 90 1c 60
+        E 1680 80 1c 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -27006,11 +27261,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 339
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 52071.445462 0.074309 74 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 265984.390405 0.074309 83 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -29083,7 +29338,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.16666667 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.16666667 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -29201,11 +29456,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 339
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 157005.122042 0.074309 29 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 149172.961738 0.074309 29 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 739 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 22 20 1368 738 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
