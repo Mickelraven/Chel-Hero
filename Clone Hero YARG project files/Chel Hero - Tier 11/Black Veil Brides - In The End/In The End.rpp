@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1755611029
+<REAPER_PROJECT 0.1 "7.35/win64" 1794759915
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -14,7 +14,7 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 9 -1 60 0 0 -1
+  TIMEMODE 1 5 3 30 0 0 8
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
@@ -225,7 +225,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -281,7 +281,10 @@
         >
         E 0 90 69 60
         E 0 90 6a 60
-        E 11520 91 60 64
+        <X 3655 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 7865 91 60 64
         E 0 91 74 64
         E 0 91 54 64
         E 0 91 48 64
@@ -1710,7 +1713,10 @@
         E 0 81 54 64
         E 0 81 48 64
         E 60 80 73 00
-        E 1920 91 60 64
+        <X 1735 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 185 91 60 64
         E 0 91 61 64
         E 0 91 62 64
         E 0 91 54 64
@@ -2466,7 +2472,10 @@
         E 0 81 48 64
         E 0 81 4a 64
         E 0 81 3c 64
-        E 239 91 60 64
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        E 124 91 60 64
         E 0 91 62 64
         E 0 91 63 64
         E 0 91 54 64
@@ -2917,7 +2926,10 @@
         E 0 81 63 64
         E 0 81 54 64
         E 0 81 56 64
-        E 1199 91 60 64
+        <X 1198 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 91 60 64
         E 0 91 61 64
         E 0 91 62 64
         E 0 91 74 64
@@ -4339,7 +4351,10 @@
         E 0 91 55 64
         E 1 81 62 64
         E 0 81 55 64
-        E 239 91 62 64
+        <X 118 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a7]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTdd
+        >
+        E 121 91 62 64
         E 0 91 55 64
         E 0 91 49 64
         E 1 81 62 64
@@ -4442,7 +4457,10 @@
         E 0 91 48 64
         E 0 91 3c 64
         E 1 81 3c 64
-        E 419 81 60 64
+        <X 294 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 125 81 60 64
         E 0 81 54 64
         E 0 81 48 64
         E 60 91 60 64
@@ -5201,7 +5219,10 @@
         E 0 81 48 64
         E 0 81 4a 64
         E 0 81 3c 64
-        E 239 91 60 64
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        E 124 91 60 64
         E 0 91 62 64
         E 0 91 63 64
         E 0 91 54 64
@@ -5654,7 +5675,10 @@
         E 0 81 54 64
         E 0 81 56 64
         E 239 80 73 00
-        E 960 91 64 64
+        <X 959 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 91 64 64
         E 0 91 58 64
         E 0 91 4b 64
         E 0 91 3e 64
@@ -6173,7 +6197,10 @@
         E 1 81 60 64
         E 0 81 55 64
         E 0 81 49 64
-        E 79 91 61 64
+        <X 54 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 25 91 61 64
         E 1 81 61 64
         E 39 91 56 64
         E 1 81 56 64
@@ -6525,7 +6552,10 @@
         E 0 81 48 64
         E 0 81 4a 64
         E 0 81 3c 64
-        E 239 91 60 64
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        E 124 91 60 64
         E 0 91 62 64
         E 0 91 63 64
         E 0 91 54 64
@@ -6741,7 +6771,10 @@
         E 1 81 62 64
         E 0 81 55 64
         E 0 81 49 64
-        E 239 91 60 64
+        <X 238 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 91 60 64
         E 0 91 61 64
         E 0 91 62 64
         E 0 91 74 64
@@ -7568,7 +7601,10 @@
         E 0 91 54 64
         E 0 91 48 64
         E 0 91 3c 64
-        E 660 81 60 64
+        <X 356 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        E 304 81 60 64
         E 0 81 54 64
         E 0 81 48 64
         E 0 81 3c 64
@@ -7793,7 +7829,10 @@
         E 0 81 55 64
         E 0 81 49 64
         E 0 81 3d 64
-        E 60 80 73 00
+        <X 59 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 80 73 00
         E 0 91 64 64
         E 0 91 58 64
         E 0 91 4b 64
@@ -7883,19 +7922,85 @@
         E 239 91 64 64
         E 0 91 57 64
         E 0 91 4a 64
+        E 0 91 3d 64
         E 1 81 64 64
         E 0 81 57 64
         E 0 81 4a 64
+        E 0 81 3d 64
         E 239 91 63 64
         E 0 91 56 64
-        E 0 91 49 64
-        E 0 91 3d 64
-        E 240 81 63 64
+        E 1 81 63 64
         E 0 81 56 64
-        E 0 81 49 64
-        E 0 81 3d 64
-        E 241 81 67 64
-        E 1679 91 61 64
+        E 239 91 60 64
+        E 0 91 62 64
+        E 0 91 63 64
+        E 0 91 54 64
+        E 0 91 56 64
+        E 0 91 48 64
+        E 0 91 4a 64
+        E 0 91 3c 64
+        E 1 81 60 64
+        E 0 81 62 64
+        E 0 81 63 64
+        E 0 81 54 64
+        E 0 81 56 64
+        E 0 81 48 64
+        E 0 81 4a 64
+        E 0 81 3c 64
+        E 239 91 60 64
+        E 0 91 62 64
+        E 0 91 63 64
+        E 0 91 54 64
+        E 0 91 56 64
+        E 1 81 60 64
+        E 0 81 62 64
+        E 0 81 63 64
+        E 0 81 54 64
+        E 0 81 56 64
+        E 239 91 60 64
+        E 0 91 62 64
+        E 0 91 63 64
+        E 0 91 54 64
+        E 0 91 56 64
+        E 0 91 48 64
+        E 0 91 4a 64
+        E 0 91 3c 64
+        E 1 81 60 64
+        E 0 81 62 64
+        E 0 81 63 64
+        E 0 81 54 64
+        E 0 81 56 64
+        E 0 81 48 64
+        E 0 81 4a 64
+        E 0 81 3c 64
+        E 239 91 60 64
+        E 0 91 62 64
+        E 0 91 63 64
+        E 0 91 54 64
+        E 0 91 56 64
+        E 1 81 60 64
+        E 0 81 62 64
+        E 0 81 63 64
+        E 0 81 54 64
+        E 0 81 56 64
+        E 239 91 60 64
+        E 0 91 62 64
+        E 0 91 63 64
+        E 0 91 54 64
+        E 0 91 56 64
+        E 0 91 48 64
+        E 0 91 4a 64
+        E 0 91 3c 64
+        E 1 81 60 64
+        E 0 81 62 64
+        E 0 81 63 64
+        E 0 81 54 64
+        E 0 81 56 64
+        E 0 81 48 64
+        E 0 81 4a 64
+        E 0 81 3c 64
+        E 239 81 67 64
+        E 720 91 61 64
         E 0 91 63 64
         E 0 91 55 64
         E 0 91 56 64
@@ -8201,7 +8306,10 @@
         E 119 80 73 00
         E 0 91 60 64
         E 1 81 60 64
-        E 119 91 61 64
+        <X 75 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjRd
+        >
+        E 44 91 61 64
         E 0 91 54 64
         E 0 91 48 64
         E 1 81 61 64
@@ -8544,11 +8652,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 97
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 237654.122767 0.079167 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 55679.997935 0.079167 20 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -8604,7 +8712,10 @@
         >
         E 0 90 69 60
         E 0 90 6a 60
-        E 11520 90 3c 64
+        <X 3655 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 7865 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
@@ -9213,11 +9324,11 @@
         E 239 90 61 64
         E 1 90 61 00
         E 239 90 73 00
+        E 0 90 74 00
         E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
-        E 0 90 74 00
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -9360,7 +9471,10 @@
         E 0 90 4a 64
         E 0 90 56 64
         E 0 90 62 64
-        E 960 90 3e 00
+        <X 121 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b2]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjJd
+        >
+        E 839 90 3e 00
         E 0 90 4a 00
         E 0 90 56 00
         E 0 90 62 00
@@ -9376,11 +9490,14 @@
         E 1 90 62 00
         E 79 90 55 64
         E 1 90 55 00
-        <X 79 0
+        <X 54 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 25 90 61 64
+        <X 1 0 4294967295 -1
           8FBTAAD/BAD3
         >
-        E 0 90 61 64
-        E 1 90 61 00
+        E 0 90 61 00
         E 99 90 4a 00
         E 60 90 3c 64
         E 0 90 48 64
@@ -9716,7 +9833,10 @@
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
-        <X 239 0
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        <X 124 0
           8FBTAAADAQH3
         >
         <X 0 0
@@ -10004,7 +10124,10 @@
         E 0 90 61 00
         E 239 90 73 00
         E 0 90 74 00
-        E 960 90 3c 64
+        <X 959 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
@@ -10409,11 +10532,11 @@
         E 0 90 58 00
         E 0 90 64 00
         E 60 90 73 00
+        E 0 90 74 00
         E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
-        E 0 90 74 00
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -10970,7 +11093,10 @@
         E 0 90 63 64
         E 1 90 57 00
         E 0 90 63 00
-        E 239 90 3e 64
+        <X 118 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a7]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTdd
+        >
+        E 121 90 3e 64
         E 0 90 4b 64
         E 0 90 57 64
         E 0 90 63 64
@@ -11062,14 +11188,17 @@
         E 0 90 56 64
         E 0 90 62 64
         E 1 90 4a 00
-        E 419 90 56 00
+        <X 294 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 125 90 56 00
         E 0 90 62 00
         E 60 90 73 00
+        E 0 90 74 00
         E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
-        E 0 90 74 00
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -11392,7 +11521,10 @@
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
-        <X 239 0
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        <X 124 0
           8FBTAAACAQH3
         >
         <X 0 0
@@ -11676,7 +11808,10 @@
         E 0 90 61 64
         E 1 90 55 00
         E 0 90 61 00
-        E 1199 90 73 64
+        <X 1198 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 90 73 64
         E 0 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
@@ -11973,11 +12108,11 @@
         >
         E 0 90 60 00
         E 239 90 73 00
-        E 0 90 3c 64
-        E 0 90 48 64
-        E 0 90 54 64
-        E 0 90 60 64
         E 0 90 74 00
+        E 0 90 3c 64
+        E 0 90 48 64
+        E 0 90 54 64
+        E 0 90 60 64
         E 1 90 3c 00
         E 0 90 48 00
         E 0 90 54 00
@@ -12532,7 +12667,10 @@
           8FBTAAADAQD3
         >
         E 0 90 60 00
-        E 239 90 3c 64
+        <X 54 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjFd
+        >
+        E 185 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
@@ -12700,7 +12838,10 @@
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
-        <X 239 0
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        <X 124 0
           8FBTAAADAQH3
         >
         <X 0 0
@@ -12813,11 +12954,11 @@
         E 239 90 64 64
         E 1 90 64 00
         E 239 90 73 00
+        E 0 90 74 00
         E 0 90 3d 64
         E 0 90 4a 64
         E 0 90 57 64
         E 0 90 63 64
-        E 0 90 74 00
         E 1 90 3d 00
         E 0 90 4a 00
         E 0 90 57 00
@@ -12962,7 +13103,10 @@
         E 0 90 61 64
         E 1 90 55 00
         E 0 90 61 00
-        E 1199 90 3c 64
+        <X 1198 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
@@ -13650,7 +13794,10 @@
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
-        <X 239 0
+        <X 115 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjNd
+        >
+        <X 124 0
           8FBTAAADAQH3
         >
         <X 0 0
@@ -13970,7 +14117,10 @@
           8FBTAAACAQD3
         >
         E 0 90 54 00
-        E 60 90 3c 64
+        <X 59 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 1 90 3c 64
         E 0 90 48 64
         E 0 90 54 64
         E 0 90 60 64
@@ -14450,7 +14600,10 @@
         E 0 90 48 00
         E 0 90 54 00
         E 0 90 60 00
-        <X 1919 0
+        <X 195 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_b4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYjRd
+        >
+        <X 1724 0
           8FBTAAABAQH3
         >
         <X 0 0
@@ -14677,6 +14830,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 98
         VELLANE 132 100 0 0 1
+        CFGEDITVIEW 94682.119477 0.070777 11 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.16666667 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -26052,7 +26210,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -26253,15 +26411,13 @@
         >
         E 0 90 37 64
         E 112 90 37 00
-        <X 128 0 0 0 5 end
-          /wVlbmQ=
+        <X 128 0 0 0 5 end,
+          /wVlbmQs
         >
         E 0 90 38 64
         E 600 90 38 00
-        E 360 90 69 00
-        E 240 90 69 64
-        <X 240 0 0 0 5 As
-          /wVBcw==
+        <X 840 0 0 0 5 as
+          /wVhcw==
         >
         E 0 90 35 64
         E 112 90 35 00
@@ -26371,15 +26527,13 @@
         >
         E 0 90 37 64
         E 240 90 37 00
-        <X 240 0 0 0 5 fought
-          /wVmb3VnaHQ=
+        <X 240 0 0 0 5 fought,
+          /wVmb3VnaHQs
         >
         E 0 90 38 64
         E 420 90 38 00
-        E 300 90 69 00
-        E 480 90 69 64
-        <X 240 0 0 0 5 And
-          /wVBbmQ=
+        <X 1020 0 0 0 5 and
+          /wVhbmQ=
         >
         E 0 90 35 64
         E 112 90 35 00
@@ -26413,13 +26567,13 @@
         >
         E 0 90 38 64
         E 112 90 38 00
-        <X 128 0 0 0 5 man-
-          /wVtYW4t
+        <X 128 0 0 0 5 mand-
+          /wVtYW5kLQ==
         >
         E 0 90 3a 64
         E 240 90 3a 00
-        <X 240 0 0 0 5 ded
-          /wVkZWQ=
+        <X 240 0 0 0 5 ed
+          /wVlZA==
         >
         E 0 90 3a 64
         E 112 90 3a 00
@@ -26440,6 +26594,7 @@
         E 480 90 38 00
         E 240 90 69 00
         E 720 90 69 64
+        E 0 90 74 64
         <X 240 0 0 0 5 Through
           /wVUaHJvdWdo
         >
@@ -26454,11 +26609,8 @@
           /wVhbGw=
         >
         E 0 90 38 64
-        E 720 90 69 00
-        E 0 90 38 00
-        E 480 90 69 64
-        E 0 90 74 64
-        <X 240 0 0 0 5 I
+        E 720 90 38 00
+        <X 720 0 0 0 5 I
           /wVJ
         >
         E 0 90 41 64
@@ -26539,12 +26691,12 @@
         <X 240 0 0 0 5 all)
           /wVhbGwp
         >
-        <X 732 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
-        >
-        E 108 80 69 00
+        E 840 80 69 00
         E 0 80 68 00
-        E 720 90 69 64
+        <X 404 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTFd
+        >
+        E 316 90 69 64
         <X 240 0 0 0 5 In
           /wVJbg==
         >
@@ -26673,7 +26825,10 @@
         E 0 90 3a 64
         E 480 90 3a 00
         E 240 90 69 00
-        E 480 90 69 64
+        <X 105 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
+        >
+        E 375 90 69 64
         <X 240 0 0 0 5 And
           /wVBbmQ=
         >
@@ -26730,7 +26885,10 @@
         E 0 90 37 64
         E 600 90 37 00
         E 360 90 69 00
-        E 1200 90 69 64
+        <X 959 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 241 90 69 64
         <X 240 0 0 0 5 "'Cause"
           /wUnQ2F1c2U=
         >
@@ -26755,11 +26913,9 @@
           /wVlbmQ=
         >
         E 0 90 3f 64
-        E 960 90 69 00
-        E 0 90 3f 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 And
-          /wVBbmQ=
+        E 960 90 3f 00
+        <X 240 0 0 0 5 and
+          /wVhbmQ=
         >
         E 0 90 3f 64
         E 112 90 3f 00
@@ -26835,8 +26991,8 @@
           /wUr
         >
         E 0 90 35 64
-        <X 551 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        <X 551 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a5]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTVd
         >
         E 169 90 35 00
         E 240 90 69 00
@@ -26904,8 +27060,8 @@
           /wVkaWU=
         >
         E 0 90 38 64
-        <X 129 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a5]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTVd
+        <X 129 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a6]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTZd
         >
         E 51 90 38 00
         <X 120 0 0 0 5 +
@@ -26926,15 +27082,13 @@
         >
         E 0 90 37 64
         E 112 90 37 00
-        <X 128 0 0 0 5 saint
-          /wVzYWludA==
+        <X 128 0 0 0 5 saint,
+          /wVzYWludCw=
         >
         E 0 90 38 64
         E 420 90 38 00
-        E 300 90 69 00
-        E 480 90 69 64
-        <X 240 0 0 0 5 Though
-          /wVUaG91Z2g=
+        <X 1020 0 0 0 5 though
+          /wV0aG91Z2g=
         >
         E 0 90 35 64
         E 112 90 35 00
@@ -27043,10 +27197,8 @@
         >
         E 0 90 3a 64
         E 780 90 3a 00
-        E 180 90 69 00
-        E 240 90 69 64
-        <X 240 0 0 0 5 Is-
-          /wVJcy0=
+        <X 660 0 0 0 5 is-
+          /wVpcy0=
         >
         E 0 90 3a 64
         E 112 90 3a 00
@@ -27107,6 +27259,7 @@
         E 720 90 38 00
         E 240 90 69 00
         E 480 90 69 64
+        E 0 90 74 64
         <X 240 0 0 0 5 If
           /wVJZg==
         >
@@ -27117,15 +27270,15 @@
         >
         E 0 90 43 64
         E 240 90 43 00
-        <X 240 0 0 0 5 fall
-          /wVmYWxs
+        <X 240 0 0 0 5 fall,
+          /wVmYWxsLA==
         >
         E 0 90 3f 64
-        E 1080 90 3f 00
-        E 120 90 69 00
-        E 120 90 69 64
-        E 0 90 74 64
-        <X 120 0 0 0 5 I
+        <X 1079 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a7]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTdd
+        >
+        E 1 90 3f 00
+        <X 360 0 0 0 5 I
           /wVJ
         >
         E 0 90 41 64
@@ -27180,12 +27333,12 @@
         >
         E 0 90 41 64
         E 480 90 41 00
-        <X 132 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
-        >
-        E 108 90 69 00
+        E 240 90 69 00
         E 0 80 74 00
-        E 720 90 69 64
+        <X 404 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTFd
+        >
+        E 316 90 69 64
         <X 240 0 0 0 5 In
           /wVJbg==
         >
@@ -27314,7 +27467,10 @@
         E 0 90 3a 64
         E 480 90 3a 00
         E 240 90 69 00
-        E 480 90 69 64
+        <X 105 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
+        >
+        E 375 90 69 64
         <X 240 0 0 0 5 And
           /wVBbmQ=
         >
@@ -27371,7 +27527,10 @@
         E 0 90 37 64
         E 600 90 37 00
         E 360 90 69 00
-        E 1200 90 69 64
+        <X 959 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 241 90 69 64
         <X 240 0 0 0 5 "'Cause"
           /wUnQ2F1c2U=
         >
@@ -27396,11 +27555,9 @@
           /wVlbmQ=
         >
         E 0 90 3f 64
-        E 960 90 69 00
-        E 0 90 3f 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 And
-          /wVBbmQ=
+        E 960 90 3f 00
+        <X 240 0 0 0 5 and
+          /wVhbmQ=
         >
         E 0 90 3f 64
         E 112 90 3f 00
@@ -27481,12 +27638,12 @@
         E 0 80 74 00
         E 0 90 69 60
         E 0 90 68 60
-        <X 14292 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
-        >
-        E 108 80 69 00
+        E 14400 80 69 00
         E 0 80 68 00
-        E 720 90 69 64
+        <X 404 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTFd
+        >
+        E 316 90 69 64
         E 0 90 74 60
         <X 240 0 0 0 5 In
           /wVJbg==
@@ -27612,7 +27769,10 @@
         E 0 90 3a 64
         E 480 90 3a 00
         E 240 90 69 00
-        E 480 90 69 64
+        <X 105 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTNd
+        >
+        E 375 90 69 64
         <X 240 0 0 0 5 And
           /wVBbmQ=
         >
@@ -27669,7 +27829,10 @@
         E 0 90 37 64
         E 600 90 37 00
         E 360 90 69 00
-        E 1200 90 69 64
+        <X 959 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 241 90 69 64
         <X 240 0 0 0 5 "'Cause"
           /wUnQ2F1c2U=
         >
@@ -27694,11 +27857,9 @@
           /wVlbmQ=
         >
         E 0 90 3f 64
-        E 960 90 69 00
-        E 0 90 3f 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 And
-          /wVBbmQ=
+        E 960 90 3f 00
+        <X 240 0 0 0 5 and
+          /wVhbmQ=
         >
         E 0 90 3f 64
         E 112 90 3f 00
@@ -27779,8 +27940,8 @@
         E 0 80 74 00
         E 0 90 69 60
         E 0 90 68 60
-        <X 13452 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a6]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTZd
+        <X 13452 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a8]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYThd
         >
         E 468 80 69 00
         E 0 80 68 00
@@ -27838,7 +27999,10 @@
         E 1200 90 43 00
         E 240 90 69 00
         E 0 80 74 00
-        E 720 90 69 64
+        <X 479 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        >
+        E 241 90 69 64
         <X 240 0 0 0 5 "'Cause"
           /wUnQ2F1c2U=
         >
@@ -27863,11 +28027,9 @@
           /wVlbmQ=
         >
         E 0 90 3f 64
-        E 960 90 69 00
-        E 0 90 3f 00
-        E 120 90 69 64
-        <X 120 0 0 0 5 And
-          /wVBbmQ=
+        E 960 90 3f 00
+        <X 240 0 0 0 5 and
+          /wVhbmQ=
         >
         E 0 90 3f 64
         E 112 90 3f 00
@@ -27943,8 +28105,8 @@
           /wUr
         >
         E 0 90 35 64
-        <X 551 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        <X 551 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a5]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTVd
         >
         E 169 90 35 00
         E 240 90 69 00
@@ -28016,8 +28178,8 @@
           /wUr
         >
         E 0 90 35 64
-        <X 491 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a4]"
-          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTRd
+        <X 491 0 0 0 1 "[Band_PlayFacialAnim McklInTheEnd_a5]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsSW5UaGVFbmRfYTVd
         >
         E 49 90 35 00
         E 360 90 69 00
@@ -28097,11 +28259,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 100
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 244243.40117 0.157325 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 115932.147076 0.082037 8 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -28119,7 +28281,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -28178,6 +28340,7 @@
       -1 56 "--Jumbotron Overdrive--" 0 56
       -1 57 Verts_Front 0 57
       -1 58 Verts_Rear 0 58
+      -1 60 G_across_stage 0 60
       -1 61 S_across_stage 0 61
       -1 62 Singer_Vert 0 62
       -1 63 Guitarist_Vert 0 63
@@ -28243,13 +28406,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 226.289145
+      LENGTH 228.43200000006291
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {1ED31285-A151-4D42-8002-EED9CE51B1FB}
       IID 12
       NAME "PART GUITAR - notes.mid"
@@ -28262,11 +28425,331 @@
         HASDATA 1 480 QN
         CCINTERP 32
         POOLEDEVTS {EC78B317-FBA9-423A-B655-C69FA3496A0E}
-        <X 0 0 0 0 3 CAMERAS
+        <x 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
-        e 0 90 1c 60
-        e 253440 80 1c 00
+        E 0 90 1f 60
+        E 0 90 6e 60
+        E 10 80 1f 00 110
+        E 0 90 1f 60
+        E 3830 80 6e 00
+        E 0 80 1f 00
+        E 0 90 2d 60
+        E 0 90 73 60
+        E 10 80 2d 00 110
+        E 0 90 2d 60 110
+        E 3830 80 2d 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 05 60
+        E 1920 80 05 00
+        E 0 90 45 60
+        <x 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 3720 80 45 00
+        E 0 90 44 60
+        <x 2520 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 840 80 44 00
+        E 0 90 03 60
+        E 360 80 73 00
+        E 0 90 6e 60
+        E 120 80 03 00
+        E 0 90 03 60
+        <x 600 0 0 0 1 "[zoom_out_quick_large 20]"
+          /wFbem9vbV9vdXRfcXVpY2tfbGFyZ2UgMjBd
+        >
+        E 3240 80 03 00
+        E 0 90 04 60
+        <x 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 04 00
+        E 0 90 1a 60
+        <x 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2040 80 6e 00
+        E 0 80 1a 00
+        E 0 90 0f 60
+        E 0 90 73 60
+        E 6960 80 0f 00
+        E 0 90 1d 60
+        E 3840 80 1d 00
+        E 0 90 1c 60
+        E 2880 80 1c 00
+        E 0 90 23 60
+        E 960 80 73 00
+        E 0 80 23 00
+        E 0 90 0f 60
+        E 0 90 6e 60
+        E 120 80 0f 00
+        E 0 90 0f 60
+        <x 2640 0 0 0 1 "[zoom_in_quick_small 20]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAyMF0=
+        >
+        E 3000 80 0f 00
+        E 0 90 15 60
+        E 1920 80 15 00
+        E 0 90 08 60
+        <x 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 1560 80 08 00
+        E 0 90 0b 60
+        E 2160 80 0b 00
+        E 0 90 30 60
+        <x 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 2040 80 30 00
+        E 0 90 1a 60
+        <x 360 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 1320 80 6e 00
+        E 0 80 1a 00
+        E 0 90 05 60
+        E 0 90 6f 60
+        <x 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 600 90 65 60
+        E 720 80 05 00
+        E 0 80 65 00
+        E 0 90 03 60
+        E 360 80 6f 00
+        E 0 80 03 00
+        E 0 90 03 60
+        E 0 90 6e 60
+        E 2040 80 03 00
+        E 0 90 2b 60
+        E 1920 80 2b 00
+        E 0 90 19 60
+        E 1920 80 19 00
+        E 0 90 5e 60
+        E 2400 80 5e 00
+        E 0 90 03 60
+        E 5280 80 03 00
+        E 0 90 1a 60
+        <x 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 1a 00
+        E 0 90 4a 60
+        E 3840 80 4a 00
+        E 0 90 08 60
+        <x 120 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 2040 80 6e 00
+        E 0 80 08 00
+        E 0 90 05 60
+        E 0 90 7e 60
+        E 240 80 05 00
+        E 0 90 05 60
+        E 1320 80 7e 00
+        E 0 90 6e 60
+        E 600 80 05 00
+        E 0 90 0f 60
+        <x 1080 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1800 80 0f 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 0d 60
+        E 1440 80 0d 00
+        E 0 90 1e 60
+        E 960 80 6e 00
+        E 0 80 1e 00
+        E 0 90 39 60
+        E 0 90 7e 60
+        E 10 80 39 00 110
+        E 0 90 39 60
+        E 2870 80 39 00
+        E 0 90 26 60
+        E 1920 80 26 00
+        E 0 90 04 60
+        E 2880 80 7e 00
+        E 0 80 04 00
+        E 0 90 73 60
+        E 0 90 14 60
+        E 10 80 14 00
+        E 0 90 14 60
+        E 3590 80 14 00
+        E 0 90 3d 60
+        E 4080 80 3d 00
+        E 0 90 04 60
+        E 4320 80 04 00
+        E 0 90 2d 60
+        E 2400 80 2d 00
+        E 0 90 03 60
+        E 840 80 73 00
+        E 0 90 6e 60
+        E 3480 80 03 00
+        E 0 90 05 60
+        E 4800 80 05 00
+        E 0 90 04 60
+        E 2520 80 04 00
+        E 0 90 03 60
+        E 1920 80 03 00
+        E 0 90 3f 60
+        E 2760 80 3f 00
+        E 0 90 4a 60
+        E 3360 80 4a 00
+        E 0 90 44 60
+        E 2400 80 44 00
+        E 0 90 05 60
+        E 2640 80 05 00
+        E 0 90 04 60
+        E 5040 80 04 00
+        E 0 90 0b 60
+        <x 600 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 1320 80 0b 00
+        E 0 90 2b 60
+        E 1920 80 2b 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 19 60
+        E 2160 80 6e 00
+        E 0 80 19 00
+        E 0 90 05 60
+        E 0 90 7e 60
+        E 1440 80 05 00
+        E 0 80 7e 00
+        E 0 90 03 60
+        E 0 90 6e 60
+        E 120 80 03 00
+        E 0 90 03 60
+        <x 120 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 4440 80 03 00
+        E 0 90 09 60
+        <x 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1440 80 09 00
+        E 0 90 40 60
+        E 1680 80 40 00
+        E 0 90 03 60
+        <x 1560 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2280 80 03 00
+        E 0 90 1d 60
+        E 2280 80 1d 00
+        E 0 90 21 60
+        E 1320 80 21 00
+        E 0 90 04 60
+        E 4080 80 04 00
+        E 0 90 03 60
+        <x 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 03 00
+        E 0 90 21 60
+        E 1920 80 6e 00
+        E 0 80 21 00
+        E 0 90 2e 60
+        E 0 90 73 60
+        E 10 80 2e 00 110
+        E 0 90 2e 60
+        E 3110 80 2e 00
+        E 0 90 3d 60
+        E 2400 80 3d 00
+        E 0 90 1c 60
+        E 1440 80 1c 00
+        E 0 90 03 60
+        E 600 80 73 00
+        E 0 90 6e 60
+        E 2040 80 03 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 19 60
+        E 1920 80 19 00
+        E 0 90 4b 60
+        E 3360 80 4b 00
+        E 0 90 04 60
+        <x 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 1080 80 6e 00
+        E 0 80 04 00
+        E 0 90 05 60
+        E 0 90 7e 60
+        E 240 80 05 00
+        E 0 90 05 60
+        <x 120 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 1800 80 7e 00
+        E 0 80 05 00
+        E 0 90 6e 60
+        E 0 90 04 60
+        E 5280 80 04 00
+        E 0 90 44 60
+        E 1920 80 44 00
+        E 0 90 03 60
+        E 5760 80 03 00
+        E 0 90 21 60
+        E 1920 80 21 00
+        E 0 90 03 60
+        E 6240 80 03 00
+        E 0 90 1a 60
+        <x 360 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1080 80 1a 00
+        E 0 90 4b 60
+        E 3840 80 4b 00
+        E 0 90 06 60
+        E 1920 80 06 00
+        E 0 90 0a 60
+        <x 600 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 1320 80 0a 00
+        E 0 90 04 60
+        <x 2760 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 2640 80 04 00
+        E 0 90 0d 60
+        E 2280 80 0d 00
+        E 0 90 03 60
+        <x 1560 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2280 80 03 00
+        E 0 90 14 60
+        E 1920 80 14 00
+        E 0 90 24 60
+        E 1920 80 24 00
+        E 0 90 06 60
+        E 2640 80 06 00
+        E 0 90 44 60
+        E 1200 80 44 00
+        E 0 90 26 60
+        <x 600 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 1320 80 26 00
+        E 0 90 17 60
+        <x 240 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1680 80 17 00
+        E 0 90 03 60
+        E 4320 80 6e 00
+        E 0 80 03 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -28274,11 +28757,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 97
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW -492.629505 0.079167 91 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.070325 90 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -28296,7 +28779,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -28408,7 +28891,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {E1E76A19-B79B-46AC-B7F9-C7199840475A}
       IID 12
       NAME "PART GUITAR - notes.mid"
@@ -28425,8 +28908,12 @@
           /wNMSUdIVFNIT1c=
         >
         E 0 90 54 60
+        e 0 90 33 60
+        E 60 80 54 00
+        E 0 90 53 60
+        e 3660 80 33 00
         E 0 90 28 60
-        E 3760 80 54 00
+        E 40 80 53 00
         E 0 90 52 60
         E 80 80 52 00
         E 0 90 47 60
@@ -29658,26 +30145,26 @@
         E 20 80 28 00
         E 0 90 2b 60
         E 60 80 52 00
-        e 0 90 4b 60
+        E 0 90 4b 60
         E 100 80 2b 00
         E 0 90 28 60
-        e 60 80 4b 00
+        E 60 80 4b 00
         E 0 90 52 60
         E 60 80 28 00
         E 0 90 2e 60
         E 60 80 52 00
-        e 0 90 4b 60
+        E 0 90 4b 60
         E 300 80 2e 00
         E 0 90 28 60
-        e 60 80 4b 00
+        E 60 80 4b 00
         E 0 90 52 60
         E 60 80 28 00
         E 0 90 2e 60
         E 60 80 52 00
-        e 0 90 4b 60
+        E 0 90 4b 60
         E 300 80 2e 00
         E 0 90 2b 60
-        e 60 80 4b 00
+        E 60 80 4b 00
         E 0 90 3a 60
         E 480 80 3a 00
         E 0 90 3a 60
@@ -30053,11 +30540,145 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 97
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 212478.461074 0.102721 37 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 0 0.102721 55 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 48 11 1896 730 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.125 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+      >
+    >
+  >
+  <TRACK {20759F5A-746D-4710-AA00-340EB4682099}
+    NAME CROWD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {20759F5A-746D-4710-AA00-340EB4682099}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      -1 82 Swell 0 82
+      -1 83 Applause 0 83
+      -1 84 Surge* 0 84
+      -1 85 Whistle 0 85
+      -1 86 "Fast Small Surge*" 0 86
+      -1 87 "Fast Surge*" 0 87
+      -1 88 "Medium Surge*" 0 88
+      -1 89 "Slow Surge*" 0 89
+      -1 95 Quiet 0 95
+      -1 96 Loud 0 96
+      -1 101 "Positive Guitar" 0 101
+      -1 102 "Negative Guitar" 0 102
+      -1 103 "Positive & Negative Guitar" 0 103
+      -1 104 "Positive Bass" 0 104
+      -1 105 "Negative Bass" 0 105
+      -1 106 "Positive & Negative Bass" 0 106
+      -1 107 "Positive Drums" 0 107
+      -1 108 "Negative Drums" 0 108
+      -1 109 "Positive & Negative Drums" 0 109
+      -1 110 "Positive All" 0 110
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 226.289145
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A2D378DE-EF12-402E-8DDE-45A0CBDBBC5B}
+      IID 12
+      NAME "PART GUITAR - notes.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EF6A7A82-1F97-4AE7-BAB7-E70B06A8BCA8}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {CAA6096E-E52A-4EF4-A73B-64A819783B6C}
+        <X 0 0 0 0 3 CROWD
+          /wNDUk9XRA==
+        >
+        E 4800 90 52 60
+        E 240 80 52 00
+        E 5280 90 55 60
+        E 240 80 55 00
+        E 8400 90 52 60
+        E 240 80 52 00
+        E 7560 90 55 60
+        E 240 80 55 00
+        E 32280 90 52 60
+        E 240 80 52 00
+        E 31920 90 55 60
+        E 240 80 55 00
+        E 21360 90 52 60
+        E 240 80 52 00
+        E 7920 90 55 60
+        E 240 80 55 00
+        E 6960 90 52 60
+        E 240 80 52 00
+        E 15120 90 55 60
+        E 240 80 55 00
+        E 7440 90 52 60
+        E 240 80 52 00
+        E 5520 90 55 60
+        E 240 80 55 00
+        E 1680 90 52 60
+        E 240 80 52 00
+        E 15480 90 55 60
+        E 240 80 55 00
+        E 7080 90 52 60
+        E 240 80 52 00
+        E 7440 90 55 60
+        E 240 80 55 00
+        E 15120 90 52 60
+        E 240 80 52 00
+        E 11880 90 55 60
+        E 240 80 55 00
+        E 18360 90 52 60
+        E 240 80 52 00
+        E 5160 90 55 60
+        E 240 80 55 00
+        E 10920 90 53 60
+        E 240 80 53 00
+        E 720 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {2B40150D-D945-4257-BE6E-4B3F6A780487}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 97
+        VELLANE 132 100 0 0 1
+        CFGEDITVIEW 253964.462886 0.090178 32 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 28 23 1364 742 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
