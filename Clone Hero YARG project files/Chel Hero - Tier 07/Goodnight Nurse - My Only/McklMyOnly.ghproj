@@ -47,7 +47,7 @@
   "drumsCareerTier": 56,
   "vocalsCareerTier": 56,
   "bandCareerTier": 56,
-  "vocalScrollSpeed": 1.8,
+  "vocalScrollSpeed": 1.2,
   "sustainThreshold": 0.2,
   "overallVolume": -4.0,
   "previewVolume": -10.0,

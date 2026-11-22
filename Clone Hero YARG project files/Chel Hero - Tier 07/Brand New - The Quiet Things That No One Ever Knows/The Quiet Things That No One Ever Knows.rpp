@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1754758939
+<REAPER_PROJECT 0.1 "7.35/win64" 1795307486
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -20,7 +20,7 @@
   PANLAWFLAGS 3
   CURSOR 0
   ZOOM 100 0 0
-  VZOOMEX 6 0
+  VZOOMEX 6 80
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -344,7 +344,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.0625 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.0625 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -10471,7 +10471,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -16464,7 +16464,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 1 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -26254,7 +26254,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -26272,7 +26272,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -26292,7 +26292,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {91EDBDAF-5BDA-47D4-9419-86BD73E9E928}
       IID 5
       NAME "PART VOCALS - notes.mid"
@@ -26494,13 +26494,13 @@
         >
         E 0 90 3a 64
         E 540 90 3a 00
-        <X 180 0 0 0 5 de-
-          /wVkZS0=
+        <X 180 0 0 0 5 des-
+          /wVkZXMt
         >
         E 0 90 38 64
         E 120 90 38 00
-        <X 240 0 0 0 5 script
-          /wVzY3JpcHQ=
+        <X 240 0 0 0 5 cript
+          /wVjcmlwdA==
         >
         E 0 90 38 64
         E 600 90 38 00
@@ -26589,13 +26589,13 @@
         >
         E 0 90 3a 64
         E 180 90 3a 00
-        <X 60 0 0 0 5 ev-
-          /wVldi0=
+        <X 60 0 0 0 5 e-
+          /wVlLQ==
         >
         E 0 90 36 64
         E 360 90 36 00
-        <X 120 0 0 0 5 er
-          /wVlcg==
+        <X 120 0 0 0 5 ver
+          /wV2ZXI=
         >
         E 0 90 38 64
         <X 176 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a2]"
@@ -26640,14 +26640,17 @@
           /wVoZWFk
         >
         E 0 90 46 64
-        E 1080 90 46 00
-        E 120 90 69 00
+        E 1080 90 69 00
+        E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 60
-        <X 60 0 0 0 5 "(And keep your feet"
-          /wUoQW5kIGtlZXAgeW91ciBmZWV0
+        <X 15 0 0 0 5 "(And keep your"
+          /wUoQW5kIGtlZXAgeW91cg==
         >
-        <X 180 0 0 0 5 on
+        <X 105 0 0 0 5 feet
+          /wVmZWV0
+        >
+        <X 240 0 0 0 5 on
           /wVvbg==
         >
         <X 240 0 0 0 5 the
@@ -26697,10 +26700,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
+        <X 15 0 0 0 5 "(Today's the day"
           /wUoVG9kYXkncyB0aGUgZGF5
         >
-        <X 180 0 0 0 5 we
+        <X 225 0 0 0 5 we
           /wV3ZQ==
         >
         <X 240 0 0 0 5 drop
@@ -26750,10 +26753,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(All for an empty"
+        <X 15 0 0 0 5 "(All for an empty"
           /wUoQWxsIGZvciBhbiBlbXB0eQ==
         >
-        <X 420 0 0 0 5 hotel)
+        <X 465 0 0 0 5 hotel)
           /wVob3RlbCk=
         >
         E 660 90 69 00
@@ -26785,8 +26788,8 @@
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 er-
-          /wVlci0=
+        <X 60 0 0 0 5 er
+          /wVlcg==
         >
         E 0 90 42 64
         E 120 90 42 00
@@ -26824,15 +26827,18 @@
           /wV0YWxz
         >
         E 0 90 42 64
-        E 840 90 42 00
-        E 120 80 74 00
+        E 840 80 74 00
         E 0 90 69 00
+        E 0 90 42 00
         E 0 90 68 64
         E 0 90 69 64
-        <X 60 0 0 0 5 "(So keep"
-          /wUoU28ga2VlcA==
+        <X 15 0 0 0 5 (So
+          /wUoU28=
         >
-        <X 180 0 0 0 5 the
+        <X 105 0 0 0 5 keep
+          /wVrZWVw
+        >
+        <X 240 0 0 0 5 the
           /wV0aGU=
         >
         <X 240 0 0 0 5 blood
@@ -26888,10 +26894,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
+        <X 15 0 0 0 5 "(Today's the day"
           /wUoVG9kYXkncyB0aGUgZGF5
         >
-        <X 180 0 0 0 5 it
+        <X 225 0 0 0 5 it
           /wVpdA==
         >
         <X 240 0 0 0 5 gets
@@ -26937,14 +26943,17 @@
           /wVkb3du
         >
         E 0 90 42 64
-        E 600 90 42 00
-        E 120 90 69 00
+        E 600 90 69 00
+        E 0 90 42 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Give up my"
-          /wUoR2l2ZSB1cCBteQ==
+        <X 15 0 0 0 5 "(Give up"
+          /wUoR2l2ZSB1cA==
         >
-        <X 180 0 0 0 5 body
+        <X 105 0 0 0 5 my
+          /wVteQ==
+        >
+        <X 240 0 0 0 5 body
           /wVib2R5
         >
         <X 480 0 0 0 5 in
@@ -26991,21 +27000,24 @@
           /wV0ZWw=
         >
         E 0 90 44 64
-        E 720 90 44 00
-        E 240 90 69 00
+        E 720 90 69 00
         E 0 80 74 00
+        E 0 90 44 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Wasting words"
+        <X 15 0 0 0 5 "(Wasting words"
           /wUoV2FzdGluZyB3b3Jkcw==
         >
-        <X 180 0 0 0 5 on
+        <X 465 0 0 0 5 on
           /wVvbg==
         >
-        <X 240 0 0 0 5 lowercases
-          /wVsb3dlcmNhc2Vz
+        <X 240 0 0 0 5 lower
+          /wVsb3dlcg==
         >
-        <X 960 0 0 0 5 and
+        <X 480 0 0 0 5 cases
+          /wVjYXNlcw==
+        >
+        <X 480 0 0 0 5 and
           /wVhbmQ=
         >
         <X 240 0 0 0 5 capitals)
@@ -27359,14 +27371,17 @@
           /wVoZWFk
         >
         E 0 90 46 64
-        E 1200 90 69 00
+        E 1080 90 69 00
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 60
-        <X 60 0 0 0 5 "(And keep your feet"
-          /wUoQW5kIGtlZXAgeW91ciBmZWV0
+        <X 15 0 0 0 5 "(And keep your"
+          /wUoQW5kIGtlZXAgeW91cg==
         >
-        <X 180 0 0 0 5 on
+        <X 105 0 0 0 5 feet
+          /wVmZWV0
+        >
+        <X 240 0 0 0 5 on
           /wVvbg==
         >
         <X 240 0 0 0 5 the
@@ -27416,10 +27431,10 @@
         E 1 90 69 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
+        <X 15 0 0 0 5 "(Today's the day"
           /wUoVG9kYXkncyB0aGUgZGF5
         >
-        <X 180 0 0 0 5 we
+        <X 225 0 0 0 5 we
           /wV3ZQ==
         >
         <X 240 0 0 0 5 drop
@@ -27469,10 +27484,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(All for an empty"
+        <X 15 0 0 0 5 "(All for an empty"
           /wUoQWxsIGZvciBhbiBlbXB0eQ==
         >
-        <X 420 0 0 0 5 hotel)
+        <X 465 0 0 0 5 hotel)
           /wVob3RlbCk=
         >
         E 660 90 69 00
@@ -27504,8 +27519,8 @@
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 er-
-          /wVlci0=
+        <X 60 0 0 0 5 er
+          /wVlcg==
         >
         E 0 90 42 64
         E 120 90 42 00
@@ -27543,15 +27558,18 @@
           /wV0YWxz
         >
         E 0 90 42 64
-        E 840 90 42 00
-        E 120 80 74 00
+        E 840 80 74 00
         E 0 90 69 00
+        E 0 90 42 00
         E 0 90 68 64
         E 0 90 69 64
-        <X 60 0 0 0 5 "(So keep"
-          /wUoU28ga2VlcA==
+        <X 15 0 0 0 5 (So
+          /wUoU28=
         >
-        <X 180 0 0 0 5 the
+        <X 105 0 0 0 5 keep
+          /wVrZWVw
+        >
+        <X 240 0 0 0 5 the
           /wV0aGU=
         >
         <X 240 0 0 0 5 blood
@@ -27607,10 +27625,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
+        <X 15 0 0 0 5 "(Today's the day"
           /wUoVG9kYXkncyB0aGUgZGF5
         >
-        <X 180 0 0 0 5 it
+        <X 225 0 0 0 5 it
           /wVpdA==
         >
         <X 240 0 0 0 5 gets
@@ -27656,14 +27674,17 @@
           /wVkb3du
         >
         E 0 90 42 64
-        E 600 90 42 00
-        E 60 90 69 00
+        E 600 90 69 00
+        E 0 90 42 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Give up my"
-          /wUoR2l2ZSB1cCBteQ==
+        <X 15 0 0 0 5 "(Give up"
+          /wUoR2l2ZSB1cA==
         >
-        <X 180 0 0 0 5 body
+        <X 45 0 0 0 5 my
+          /wVteQ==
+        >
+        <X 240 0 0 0 5 body
           /wVib2R5
         >
         <X 480 0 0 0 5 in
@@ -27710,21 +27731,24 @@
           /wV0ZWw=
         >
         E 0 90 44 64
-        E 720 90 44 00
-        E 240 90 69 00
+        E 720 90 69 00
         E 0 80 74 00
+        E 0 90 44 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Wasting words"
+        <X 15 0 0 0 5 "(Wasting words"
           /wUoV2FzdGluZyB3b3Jkcw==
         >
-        <X 180 0 0 0 5 on
+        <X 465 0 0 0 5 on
           /wVvbg==
         >
-        <X 240 0 0 0 5 lowercases
-          /wVsb3dlcmNhc2Vz
+        <X 240 0 0 0 5 lower
+          /wVsb3dlcg==
         >
-        <X 960 0 0 0 5 and
+        <X 480 0 0 0 5 cases
+          /wVjYXNlcw==
+        >
+        <X 480 0 0 0 5 and
           /wVhbmQ=
         >
         <X 240 0 0 0 5 capitals)
@@ -27953,14 +27977,17 @@
           /wVoZWFk
         >
         E 0 90 46 64
-        E 1080 90 46 00
-        E 120 90 69 00
+        E 1080 90 69 00
+        E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 60
-        <X 60 0 0 0 5 "(And keep your feet"
-          /wUoQW5kIGtlZXAgeW91ciBmZWV0
+        <X 15 0 0 0 5 "(And keep your"
+          /wUoQW5kIGtlZXAgeW91cg==
         >
-        <X 180 0 0 0 5 on
+        <X 105 0 0 0 5 feet
+          /wVmZWV0
+        >
+        <X 240 0 0 0 5 on
           /wVvbg==
         >
         <X 240 0 0 0 5 the
@@ -28010,10 +28037,10 @@
         E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
+        <X 15 0 0 0 5 "(Today's the day"
           /wUoVG9kYXkncyB0aGUgZGF5
         >
-        <X 180 0 0 0 5 we
+        <X 225 0 0 0 5 we
           /wV3ZQ==
         >
         <X 240 0 0 0 5 drop
@@ -28059,14 +28086,17 @@
           /wViZWQ=
         >
         E 0 90 46 64
-        E 1080 90 46 00
-        E 120 90 69 00
+        E 1080 90 69 00
+        E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(All for an empty"
-          /wUoQWxsIGZvciBhbiBlbXB0eQ==
+        <X 15 0 0 0 5 "(All for an"
+          /wUoQWxsIGZvciBhbg==
         >
-        <X 420 0 0 0 5 hotel)
+        <X 105 0 0 0 5 empty
+          /wVlbXB0eQ==
+        >
+        <X 480 0 0 0 5 hotel)
           /wVob3RlbCk=
         >
         E 660 90 69 00
@@ -28097,8 +28127,8 @@
         >
         E 0 90 44 64
         E 180 90 44 00
-        <X 60 0 0 0 5 er-
-          /wVlci0=
+        <X 60 0 0 0 5 er
+          /wVlcg==
         >
         E 0 90 42 64
         E 120 90 42 00
@@ -28136,14 +28166,17 @@
           /wV0YWxz
         >
         E 0 90 42 64
-        E 720 90 42 00
-        E 240 90 69 00
+        E 720 90 69 00
+        E 0 90 42 00
         E 0 90 68 64
         E 0 90 69 64
-        <X 60 0 0 0 5 "(So keep"
-          /wUoU28ga2VlcA==
+        <X 15 0 0 0 5 (So
+          /wUoU28=
         >
-        <X 180 0 0 0 5 the
+        <X 225 0 0 0 5 keep
+          /wVrZWVw
+        >
+        <X 240 0 0 0 5 the
           /wV0aGU=
         >
         <X 240 0 0 0 5 blood
@@ -28195,14 +28228,17 @@
           /wVncm91bmQ=
         >
         E 0 90 46 64
-        E 1080 90 46 00
-        E 60 90 69 00
+        E 1080 90 69 00
+        E 0 90 46 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Today's the day"
-          /wUoVG9kYXkncyB0aGUgZGF5
+        <X 15 0 0 0 5 "(Today's the"
+          /wUoVG9kYXkncyB0aGU=
         >
-        <X 180 0 0 0 5 it
+        <X 45 0 0 0 5 day
+          /wVkYXk=
+        >
+        <X 240 0 0 0 5 it
           /wVpdA==
         >
         <X 240 0 0 0 5 gets
@@ -28248,14 +28284,17 @@
           /wVkb3du
         >
         E 0 90 42 64
-        E 600 90 42 00
-        E 120 90 69 00
+        E 600 90 69 00
+        E 0 90 42 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Give up my"
-          /wUoR2l2ZSB1cCBteQ==
+        <X 15 0 0 0 5 "(Give up"
+          /wUoR2l2ZSB1cA==
         >
-        <X 180 0 0 0 5 body
+        <X 105 0 0 0 5 my
+          /wVteQ==
+        >
+        <X 240 0 0 0 5 body
           /wVib2R5
         >
         <X 480 0 0 0 5 in
@@ -28301,20 +28340,23 @@
           /wV0ZWw=
         >
         E 0 90 44 64
-        E 720 90 44 00
-        E 240 90 69 00
+        E 720 90 69 00
+        E 0 90 44 00
         E 0 90 69 64
         E 0 90 68 64
-        <X 60 0 0 0 5 "(Wasting words"
+        <X 15 0 0 0 5 "(Wasting words"
           /wUoV2FzdGluZyB3b3Jkcw==
         >
-        <X 180 0 0 0 5 on
+        <X 465 0 0 0 5 on
           /wVvbg==
         >
-        <X 240 0 0 0 5 lowercases
-          /wVsb3dlcmNhc2Vz
+        <X 240 0 0 0 5 lower
+          /wVsb3dlcg==
         >
-        <X 960 0 0 0 5 and
+        <X 480 0 0 0 5 cases
+          /wVjYXNlcw==
+        >
+        <X 480 0 0 0 5 and
           /wVhbmQ=
         >
         <X 240 0 0 0 5 capitals)
@@ -28329,11 +28371,11 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 605
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 233427.918536 0.068016 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 141222.103167 0.068016 13 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -28351,7 +28393,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -28481,7 +28523,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {51E49B92-B569-42B0-967C-FCEE660C0B49}
       IID 4
       NAME "PART DRUMS - notes.mid"
@@ -28510,7 +28552,7 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
@@ -29301,7 +29343,153 @@
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
-        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 37 18 1885 737 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
+      >
+    >
+  >
+  <TRACK {1DB68A72-F23B-48BB-884C-9A0EA95C4FF7}
+    NAME CROWD
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    FIXEDLANES 9 0 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {1DB68A72-F23B-48BB-884C-9A0EA95C4FF7}
+    PERF 0
+    MIDIOUT -1
+    <MIDINOTENAMES
+      -1 82 Swell 0 82
+      -1 83 Applause 0 83
+      -1 84 Surge* 0 84
+      -1 85 Whistle 0 85
+      -1 86 "Fast Small Surge*" 0 86
+      -1 87 "Fast Surge*" 0 87
+      -1 88 "Medium Surge*" 0 88
+      -1 89 "Slow Surge*" 0 89
+      -1 95 Quiet 0 95
+      -1 96 Loud 0 96
+      -1 101 "Positive Guitar" 0 101
+      -1 102 "Negative Guitar" 0 102
+      -1 103 "Positive & Negative Guitar" 0 103
+      -1 104 "Positive Bass" 0 104
+      -1 105 "Negative Bass" 0 105
+      -1 106 "Positive & Negative Bass" 0 106
+      -1 107 "Positive Drums" 0 107
+      -1 108 "Negative Drums" 0 108
+      -1 109 "Positive & Negative Drums" 0 109
+      -1 110 "Positive All" 0 110
+    >
+    MAINSEND 1 0
+    <FXCHAIN
+      SHOW 0
+      LASTSEL 0
+      DOCKED 0
+    >
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 243.938071
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {CD2D2B7A-5238-4EFA-9A41-ADFDDF605E84}
+      IID 4
+      NAME "PART DRUMS - notes.mid"
+      VOLPAN 1 0 1 -1
+      SOFFS 0 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B8155664-D6BD-4B65-BC9E-C43B5C1EBBDC}
+      <SOURCE MIDI
+        HASDATA 1 480 QN
+        CCINTERP 32
+        POOLEDEVTS {DDDE66A4-C410-44A5-A520-D726F62D4925}
+        <X 0 0 0 0 3 CROWD
+          /wNDUk9XRA==
+        >
+        E 240 90 5f 60
+        E 3840 90 55 60
+        E 240 80 55 00
+        E 13920 80 5f 00
+        E 0 90 60 60
+        E 240 80 60 00
+        E 480 90 52 60
+        E 240 80 52 00
+        E 19920 90 55 60
+        E 240 80 55 00
+        E 12240 90 52 60
+        E 240 80 52 00
+        E 22560 90 55 60
+        E 240 80 55 00
+        E 7680 90 52 60
+        E 240 80 52 00
+        E 8640 90 55 60
+        E 240 80 55 00
+        E 23520 90 52 60
+        E 240 80 52 00
+        E 12600 90 55 60
+        E 240 80 55 00
+        E 17640 90 52 60
+        E 240 80 52 00
+        E 19440 90 55 60
+        E 240 80 55 00
+        E 10800 90 53 60
+        E 240 80 53 00
+        E 0 90 5f 60
+        E 16680 90 55 60
+        E 240 80 55 00
+        E 13320 80 5f 00
+        E 0 90 60 60
+        E 240 80 60 00
+        E 0 90 52 60
+        E 240 80 52 00
+        E 19440 90 55 60
+        E 240 80 55 00
+        E 10800 90 52 60
+        E 240 80 52 00
+        E 12360 90 55 60
+        E 240 80 55 00
+        E 6360 90 52 60
+        E 240 80 52 00
+        E 7200 90 55 60
+        E 240 80 55 00
+        E 3840 90 52 60
+        E 240 80 52 00
+        E 19440 90 55 60
+        E 240 80 55 00
+        E 10800 90 52 60
+        E 240 80 52 00
+        e 18960 90 53 60
+        e 240 80 53 00
+        E 0 b0 7b 00
+        CCINTERP 32
+        CHASE_CC_TAKEOFFS 1
+        GUID {5C9DF5FF-7911-465E-8190-B889BDB6887E}
+        IGNTEMPO 0 120 4 4
+        SRCCOLOR 604
+        VELLANE 132 100 0 0 1
+        CFGEDITVIEW 305281.124921 0.069501 18 12 0 -1 0 0 0 0.5
+        KEYSNAP 0
+        TRACKSEL 216
+        EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
+        CFGEDIT 1 1 0 1 0 1 1 0 1 1 1 0.25 24 28 1381 740 0 0 0 2 0 0 0 0 0 -0.11 0 0 1 64
       >
     >
   >
