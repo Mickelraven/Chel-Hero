@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.35/win64" 1795307486
+<REAPER_PROJECT 0.1 "7.35/win64" 1795403304
   <NOTES 0 2
   >
   RIPPLE 0 0
@@ -14,13 +14,13 @@
   PROJOFFS 0 0 0
   MAXPROJLEN 0 0
   GRID 3199 8 1 8 1 0 0 0
-  TIMEMODE 1 9 -1 60 0 0 -1
+  TIMEMODE 1 5 3 30 0 0 8
   VIDEO_CONFIG 0 0 65792
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 0
-  ZOOM 100 0 0
-  VZOOMEX 6 80
+  CURSOR 118.04020399999709
+  ZOOM 100 11210 0
+  VZOOMEX 6 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -1313,7 +1313,11 @@
         >
         E 0 81 60 64
         E 0 81 54 64
-        E 179 81 3e 64
+        <X 1 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hMV0=
+        >
+        E 178 81 3e 64
         E 0 81 4a 64
         E 60 91 61 64
         E 0 91 63 64
@@ -3851,7 +3855,11 @@
         >
         E 0 81 60 64
         E 0 81 54 64
-        E 179 81 3e 64
+        <X 50 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hM10=
+        >
+        E 129 81 3e 64
         E 0 81 4a 64
         E 60 91 61 64
         E 0 91 63 64
@@ -6697,7 +6705,11 @@
         E 0 91 58 64
         E 0 91 4b 64
         E 1 81 4b 64
-        E 419 81 3e 64
+        <X 266 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hNF0=
+        >
+        E 153 81 3e 64
         E 0 81 64 64
         E 0 81 58 64
         E 60 80 73 00
@@ -10467,7 +10479,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 602
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 232158.062563 0.049314 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 43936.757208 0.049314 11 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -11261,7 +11273,11 @@
         E 1 81 61 64
         E 0 81 54 64
         E 0 81 48 64
-        E 1679 91 61 64
+        <X 1441 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a1]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hMV0=
+        >
+        E 238 91 61 64
         E 0 91 54 64
         E 0 91 48 64
         E 0 91 3c 64
@@ -11991,7 +12007,11 @@
         E 0 91 56 64
         E 1 81 63 64
         E 0 81 56 64
-        E 239 91 63 64
+        <X 27 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_b2]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19iMl0=
+        >
+        E 212 91 63 64
         E 0 91 56 64
         E 0 91 4a 64
         E 1 81 63 64
@@ -12737,7 +12757,11 @@
         E 1 81 61 64
         E 0 81 54 64
         E 0 81 48 64
-        E 1679 91 61 64
+        <X 1490 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a3]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hM10=
+        >
+        E 189 91 61 64
         E 0 91 54 64
         E 0 91 48 64
         E 0 91 3c 64
@@ -13467,7 +13491,11 @@
         E 0 91 56 64
         E 1 81 63 64
         E 0 81 56 64
-        E 239 91 63 64
+        <X 27 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_b2]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19iMl0=
+        >
+        E 212 91 63 64
         E 0 91 56 64
         E 0 91 4a 64
         E 1 81 63 64
@@ -14305,7 +14333,11 @@
         E 0 91 57 64
         E 0 91 4b 64
         E 0 91 3e 64
-        E 3720 81 64 64
+        <X 3627 0 0 0 1 "[Band_PlayFacialAnim McklTheQuietThings_a4]"
+          /wFbQmFuZF9QbGF5RmFjaWFsQW5pbSBNY2tsVGhlUXVpZXRUaGluZw==
+          c19hNF0=
+        >
+        E 93 81 64 64
         E 0 81 57 64
         E 0 81 4b 64
         E 0 81 3e 64
@@ -16460,7 +16492,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 603
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 257193.494301 0.10904 11 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 79469.986161 0.073775 11 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -26272,7 +26304,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -26292,7 +26324,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {91EDBDAF-5BDA-47D4-9419-86BD73E9E928}
       IID 5
       NAME "PART VOCALS - notes.mid"
@@ -26344,13 +26376,13 @@
         >
         E 0 90 36 64
         E 120 90 36 00
-        <X 120 0 0 0 5 wes-
-          /wV3ZXMt
+        <X 120 0 0 0 5 west-
+          /wV3ZXN0LQ==
         >
         E 0 90 38 64
         E 360 90 38 00
-        <X 360 0 0 0 5 tern
-          /wV0ZXJu
+        <X 360 0 0 0 5 ern
+          /wVlcm4=
         >
         E 0 90 3a 64
         E 300 90 3a 00
@@ -28371,7 +28403,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 605
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 141222.103167 0.068016 13 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 42273.550558 0.068016 13 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
@@ -28393,7 +28425,7 @@
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
     FIXEDLANES 9 0 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0 0
@@ -28452,6 +28484,7 @@
       -1 56 "--Jumbotron Overdrive--" 0 56
       -1 57 Verts_Front 0 57
       -1 58 Verts_Rear 0 58
+      -1 60 G_across_stage 0 60
       -1 61 S_across_stage 0 61
       -1 62 Singer_Vert 0 62
       -1 63 Guitarist_Vert 0 63
@@ -28517,13 +28550,13 @@
     <ITEM
       POSITION 0
       SNAPOFFS 0
-      LENGTH 243.938071
+      LENGTH 246.14665899998423
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 0
+      SEL 1
       IGUID {51E49B92-B569-42B0-967C-FCEE660C0B49}
       IID 4
       NAME "PART DRUMS - notes.mid"
@@ -28539,8 +28572,273 @@
         <X 0 0 0 0 3 CAMERAS
           /wNDQU1FUkFT
         >
-        e 0 90 1c 60
-        e 318720 80 1c 00
+        E 0 90 1c 60
+        E 0 90 73 60
+        E 10 80 1c 00 110
+        E 0 90 1c 60
+        E 3830 80 1c 00
+        E 0 90 08 60
+        <X 240 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 3600 80 08 00
+        E 0 90 09 60
+        <X 240 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 3600 80 09 00
+        E 0 90 30 60
+        E 3840 80 30 00
+        E 0 90 1f 60
+        E 2640 80 1f 00
+        E 0 90 23 60
+        E 1200 80 73 00
+        E 0 80 23 00
+        E 0 90 4a 60
+        E 0 90 6e 60
+        E 10 80 4a 00 110
+        E 0 90 4a 60
+        E 3830 80 4a 00
+        E 0 90 14 60
+        E 3840 80 14 00
+        E 0 90 1a 60
+        E 3840 80 1a 00
+        E 0 90 0a 60
+        <X 1560 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2280 80 0a 00
+        E 0 90 0f 60
+        E 3840 80 0f 00
+        E 0 90 0b 60
+        <X 240 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 3600 80 0b 00
+        E 0 90 2b 60
+        <X 1560 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 0a 60
+        E 3840 80 0a 00
+        E 0 90 23 60
+        E 960 80 23 00
+        E 0 90 21 60
+        E 960 80 21 00
+        E 0 90 04 60
+        E 7680 80 04 00
+        E 0 90 14 60
+        E 3840 80 14 00
+        E 0 90 24 60
+        E 3840 80 24 00
+        E 0 90 03 60
+        E 6720 80 03 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 04 60
+        E 4200 80 04 00
+        E 0 90 2d 60
+        E 2520 80 2d 00
+        E 0 90 19 60
+        E 2880 80 19 00
+        E 0 90 2b 60
+        <X 600 0 0 0 1 "[zoom_in_quick_large 10]"
+          /wFbem9vbV9pbl9xdWlja19sYXJnZSAxMF0=
+        >
+        E 2280 80 2b 00
+        E 0 90 05 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 05 00
+        E 0 90 3d 60
+        E 1920 80 3d 00
+        E 0 90 09 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 09 00
+        E 0 90 0f 60
+        E 3600 80 0f 00
+        E 0 90 03 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 2040 80 03 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 17 60
+        E 1920 80 17 00
+        E 0 90 05 60
+        E 1920 80 05 00
+        E 0 90 03 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 03 00
+        E 0 90 0d 60
+        E 1920 80 0d 00
+        E 0 90 62 60
+        <X 240 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 3600 80 62 00
+        E 0 90 03 60
+        E 2880 80 03 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 30 60
+        E 2880 80 30 00
+        E 0 90 05 60
+        E 4320 80 05 00
+        E 0 90 19 60
+        E 3360 80 19 00
+        E 0 90 03 60
+        E 7680 80 03 00
+        E 0 90 05 60
+        E 3840 80 05 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 44 60
+        E 1920 80 44 00
+        E 0 90 39 60
+        <X 360 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 3480 80 39 00
+        E 0 90 0d 60
+        E 1920 80 0d 00
+        E 0 90 12 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 12 00
+        E 0 90 1f 60
+        E 1920 80 1f 00
+        E 0 90 08 60
+        <X 120 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 1800 80 08 00
+        E 0 90 0f 60
+        E 3840 80 0f 00
+        E 0 90 06 60
+        E 1920 80 06 00
+        E 0 90 0e 60
+        E 1920 80 0e 00
+        E 0 90 2b 60
+        E 1920 80 2b 00
+        E 0 90 5f 60
+        E 1920 80 5f 00
+        E 0 90 19 60
+        E 1920 80 19 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 60 60
+        E 3840 80 6e 00
+        E 0 80 60 00
+        E 0 90 2e 60
+        E 0 90 73 60
+        E 10 80 2e 00 110
+        E 0 90 2e 60
+        E 3830 80 2e 00
+        E 0 90 1c 60
+        E 3840 80 1c 00
+        E 0 90 1f 60
+        E 3840 80 1f 00
+        E 0 90 3c 60
+        E 3840 80 3c 00
+        E 0 90 45 60
+        E 3840 80 45 00
+        E 0 90 14 60
+        E 3840 80 14 00
+        E 0 90 10 60
+        <X 960 0 0 0 1 "[zoom_out_slow_small 10]"
+          /wFbem9vbV9vdXRfc2xvd19zbWFsbCAxMF0=
+        >
+        E 2880 80 10 00
+        E 0 90 1e 60
+        E 3840 80 1e 00
+        E 0 90 04 60
+        E 11520 80 04 00
+        E 0 90 19 60
+        E 3840 80 19 00
+        E 0 90 4b 60
+        E 6720 80 4b 00
+        E 0 90 26 60
+        E 2640 80 26 00
+        E 0 90 04 60
+        E 3600 80 04 00
+        E 0 90 44 60
+        E 2400 80 73 00
+        E 0 80 44 00
+        E 0 90 6e 60
+        E 0 90 04 60
+        E 9840 80 04 00
+        E 0 90 0d 60
+        <X 240 0 0 0 1 "[zoom_out_slow_large 10]"
+          /wFbem9vbV9vdXRfc2xvd19sYXJnZSAxMF0=
+        >
+        E 2880 80 0d 00
+        E 0 90 1f 60
+        <X 120 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 1320 80 1f 00
+        E 0 90 40 60
+        E 1320 80 40 00
+        E 0 90 05 60
+        E 2280 80 05 00
+        E 0 90 23 60
+        E 600 80 23 00
+        E 0 90 03 60
+        E 4440 80 03 00
+        E 0 90 1d 60
+        E 1920 80 1d 00
+        E 0 90 04 60
+        E 3360 80 04 00
+        E 0 90 19 60
+        E 2400 80 19 00
+        E 0 90 03 60
+        E 7680 80 03 00
+        E 0 90 1f 60
+        <X 240 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 2640 80 1f 00
+        E 0 90 30 60
+        <X 120 0 0 0 1 "[zoom_in_slow_small 10]"
+          /wFbem9vbV9pbl9zbG93X3NtYWxsIDEwXQ==
+        >
+        E 2760 80 30 00
+        E 0 90 1a 60
+        <X 600 0 0 0 1 "[zoom_in_quick_small 10]"
+          /wFbem9vbV9pbl9xdWlja19zbWFsbCAxMF0=
+        >
+        E 1320 80 1a 00
+        E 0 90 05 60
+        E 7680 80 05 00
+        E 0 90 04 60
+        E 3840 80 04 00
+        E 0 90 18 60
+        E 1920 80 18 00
+        E 0 90 19 60
+        E 1920 80 6e 00
+        E 0 80 19 00
+        E 0 90 73 60
+        E 0 90 03 60
+        E 120 80 03 00
+        E 0 90 03 60
+        <X 480 0 0 0 1 "[zoom_out_quick_small 10]"
+          /wFbem9vbV9vdXRfcXVpY2tfc21hbGwgMTBd
+        >
+        E 2400 80 03 00
+        E 0 90 2e 60
+        E 18960 80 2e 00
+        E 0 90 1c 60
+        E 120 80 73 00
+        E 0 80 1c 00
         E 0 b0 7b 00
         CCINTERP 32
         CHASE_CC_TAKEOFFS 1
@@ -28548,7 +28846,7 @@
         IGNTEMPO 0 120 4 4
         SRCCOLOR 604
         VELLANE 132 100 0 0 1
-        CFGEDITVIEW 284215.881014 0.041282 94 12 0 -1 0 0 0 0.5
+        CFGEDITVIEW 149162.700522 0.069501 94 12 0 -1 0 0 0 0.5
         KEYSNAP 0
         TRACKSEL 216
         EVTFILTER 0 -1 -1 -1 -1 0 0 0 0 -1 -1 -1 -1 0 -1 0 -1 -1
